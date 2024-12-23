@@ -3,7 +3,7 @@ library(ggrepel)
 library(extrafont)
 
 
-#Upload and summarise train data
+#Upload and summarise train data (API Pull)
 ctatrain <- read.csv("https://data.cityofchicago.org/resource/t2rn-p8d7.csv?$limit=45000")
 ctatrain$date <-  as.Date(ctatrain$month_beginning, format="%Y-%m-%d")
 #Filter to 2017 onward
@@ -13,7 +13,7 @@ ctatrainmonthly <- ctatrain %>% group_by(date) %>% summarise(ctatrain=sum(montht
 
 
 
-#Upload and summarise bus data
+#Upload and summarise bus data (API Pull)
 ctabus <- read.csv("https://data.cityofchicago.org/resource/bynn-gwxy.csv?$limit=450000")
 ctabus$date <-  as.Date(ctabus$month_beginning, format="%Y-%m-%d")
 #Filter to 2017 onwards
