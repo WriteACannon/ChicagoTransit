@@ -1,0 +1,191 @@
+﻿station_id,STATION,NAME,lat,lng,Color,Hex,Branch,weight,weight_Branch,weight_Hex,Blue,Brown,Green,Orange,Pink,Purple,Red,Yellow
+41230,47th-Dan Ryan,47th,41.810318,-87.63094,Red ,#c60c30,95th,1,95th,#c60c30,No,No,No,No,No,No,Yes,No
+40910,63rd-Dan Ryan,63rd,41.780536,-87.630952,Red ,#c60c30,95th,1,95th,#c60c30,No,No,No,No,No,No,Yes,No
+40990,69th,69th,41.768367,-87.625724,Red ,#c60c30,95th,1,95th,#c60c30,No,No,No,No,No,No,Yes,No
+40240,79th,79th,41.750419,-87.625112,Red ,#c60c30,95th,1,95th,#c60c30,No,No,No,No,No,No,Yes,No
+41430,87th,87th,41.735372,-87.624717,Red ,#c60c30,95th,1,95th,#c60c30,No,No,No,No,No,No,Yes,No
+40450,95th/Dan Ryan,95th/Dan Ryan,41.722377,-87.624342,Red ,#c60c30,95th,1,95th,#c60c30,No,No,No,No,No,No,Yes,No
+41000,Cermak-Chinatown,Cermak,41.853206,-87.630968,Red ,#c60c30,95th,1,95th,#c60c30,No,No,No,No,No,No,Yes,No
+41170,Garfield-Dan Ryan,Garfield,41.79542,-87.631157,Red ,#c60c30,95th,1,95th,#c60c30,No,No,No,No,No,No,Yes,No
+41490,Harrison,Harrison,41.874039,-87.627479,Red ,#c60c30,95th,1,95th,#c60c30,No,No,No,No,No,No,Yes,No
+40560,Jackson/State,Jackson,41.878153,-87.627596,Red ,#c60c30,95th,1,95th,#c60c30,No,No,No,No,No,No,Yes,No
+41090,Monroe/State,Monroe,41.880745,-87.627696,Red ,#c60c30,95th,1,95th,#c60c30,No,No,No,No,No,No,Yes,No
+40190,Sox-35th-Dan Ryan,Sox,41.831191,-87.630636,Red ,#c60c30,95th,1,95th,#c60c30,No,No,No,No,No,No,Yes,No
+40830,18th,18th,41.857908,-87.669147,Pink ,#e27ea6,Cermak,1,Cermak,#e27ea6,No,No,No,No,Yes,No,No,No
+40580,54th/Cermak,54th/Cermak,41.85177331,-87.75669201,Pink ,#e27ea6,Cermak,1,Cermak,#e27ea6,No,No,No,No,Yes,No,No,No
+40440,California-Cermak,California,41.854109,-87.694774,Pink ,#e27ea6,Cermak,1,Cermak,#e27ea6,No,No,No,No,Yes,No,No,No
+40780,Central Park,Central Park,41.853839,-87.714842,Pink ,#e27ea6,Cermak,1,Cermak,#e27ea6,No,No,No,No,Yes,No,No,No
+40420,Cicero-Cermak,Cicero,41.85182,-87.745336,Pink ,#e27ea6,Cermak,1,Cermak,#e27ea6,No,No,No,No,Yes,No,No,No
+40210,Damen-Cermak,Damen,41.854517,-87.675975,Pink ,#e27ea6,Cermak,1,Cermak,#e27ea6,No,No,No,No,Yes,No,No,No
+41040,Kedzie-Cermak,Kedzie,41.853964,-87.705408,Pink ,#e27ea6,Cermak,1,Cermak,#e27ea6,No,No,No,No,Yes,No,No,No
+40600,Kostner,Kostner,41.853751,-87.733258,Pink ,#e27ea6,Cermak,1,Cermak,#e27ea6,No,No,No,No,Yes,No,No,No
+41030,Polk,Polk,41.871551,-87.66953,Pink ,#e27ea6,Cermak,1,Cermak,#e27ea6,No,No,No,No,Yes,No,No,No
+40150,Pulaski-Cermak,Pulaski,41.853732,-87.724311,Pink ,#e27ea6,Cermak,1,Cermak,#e27ea6,No,No,No,No,Yes,No,No,No
+40740,Western-Cermak,Western,41.854225,-87.685129,Pink ,#e27ea6,Cermak,1,Cermak,#e27ea6,No,No,No,No,Yes,No,No,No
+41120,35-Bronzeville-IIT,35th,41.831677,-87.625826,Green ,#009b3a,Cottage Grove - 63rd,1,Cottage Grove - 63rd,#009b3a,No,No,Yes,No,No,No,No,No
+41270,43rd,43rd,41.816462,-87.619021,Green ,#009b3a,Cottage Grove - 63rd,1,Cottage Grove - 63rd,#009b3a,No,No,Yes,No,No,No,No,No
+41080,47th-South Elevated,47th,41.809209,-87.618826,Green ,#009b3a,Cottage Grove - 63rd,1,Cottage Grove - 63rd,#009b3a,No,No,Yes,No,No,No,No,No
+40130,51st,51st,41.80209,-87.618487,Green ,#009b3a,Cottage Grove - 63rd,1,Cottage Grove - 63rd,#009b3a,No,No,Yes,No,No,No,No,No
+40290,Ashland-63rd,Ashland/63rd,41.77886,-87.663766,Green ,#009b3a,Cottage Grove - 63rd,1,Cottage Grove - 63rd,#009b3a,No,No,Yes,No,No,No,No,No
+41690,Cermak-McCormick Place,Cermak ,41.853115,-87.626402,Green ,#009b3a,Cottage Grove - 63rd,1,Cottage Grove - 63rd,#009b3a,No,No,Yes,No,No,No,No,No
+40720,East 63rd-Cottage Grove,Cottage Grove,41.780309,-87.605857,Green ,#009b3a,Cottage Grove - 63rd,1,Cottage Grove - 63rd,#009b3a,No,No,Yes,No,No,No,No,No
+40510,Garfield-South Elevated,Garfield,41.795172,-87.618327,Green ,#009b3a,Cottage Grove - 63rd,1,Cottage Grove - 63rd,#009b3a,No,No,Yes,No,No,No,No,No
+40940,Halsted/63rd,Halsted/63rd,41.778943,-87.644244,Green ,#009b3a,Cottage Grove - 63rd,1,Cottage Grove - 63rd,#009b3a,No,No,Yes,No,No,No,No,No
+40300,Indiana,Indiana,41.821732,-87.621371,Green ,#009b3a,Cottage Grove - 63rd,1,Cottage Grove - 63rd,#009b3a,No,No,Yes,No,No,No,No,No
+41140,King Drive,King Drive,41.78013,-87.615546,Green ,#009b3a,Cottage Grove - 63rd,1,Cottage Grove - 63rd,#009b3a,No,No,Yes,No,No,No,No,No
+40010,Austin-Forest Park,Austin,41.870851,-87.776812,Blue ,#00a1de,Forest Park,1,Forest Park,#00a1de,Yes,No,No,No,No,No,No,No
+40970,Cicero-Lake,Cicero,41.871574,-87.745154,Blue ,#00a1de,Forest Park,1,Forest Park,#00a1de,Yes,No,No,No,No,No,No,No
+40430,Clinton-Forest Park,Clinton,41.875539,-87.640984,Blue ,#00a1de,Forest Park,1,Forest Park,#00a1de,Yes,No,No,No,No,No,No,No
+40390,Forest Park,Forest Park,41.874257,-87.817318,Blue ,#00a1de,Forest Park,1,Forest Park,#00a1de,Yes,No,No,No,No,No,No,No
+40980,Harlem-Forest Park,Harlem,41.87349,-87.806961,Blue ,#00a1de,Forest Park,1,Forest Park,#00a1de,Yes,No,No,No,No,No,No,No
+40070,Jackson/Dearborn,Jackson,41.878183,-87.629296,Blue ,#00a1de,Forest Park,1,Forest Park,#00a1de,Yes,No,No,No,No,No,No,No
+40250,Kedzie-Homan-Forest Park,Kedzie,41.874341,-87.70604,Blue ,#00a1de,Forest Park,1,Forest Park,#00a1de,Yes,No,No,No,No,No,No,No
+41340,LaSalle,LaSalle,41.875568,-87.631722,Blue ,#00a1de,Forest Park,1,Forest Park,#00a1de,Yes,No,No,No,No,No,No,No
+40810,Medical Center,Illinois Medical District,41.875706,-87.673932,Blue ,#00a1de,Forest Park,1,Forest Park,#00a1de,Yes,No,No,No,No,No,No,No
+40790,Monroe/Dearborn,Monroe,41.880703,-87.629378,Blue ,#00a1de,Forest Park,1,Forest Park,#00a1de,Yes,No,No,No,No,No,No,No
+40180,Oak Park-Forest Park,Oak Park,41.872108,-87.791602,Blue ,#00a1de,Forest Park,1,Forest Park,#00a1de,Yes,No,No,No,No,No,No,No
+40920,Pulaski-Forest Park,Pulaski,41.873797,-87.725663,Blue ,#00a1de,Forest Park,1,Forest Park,#00a1de,Yes,No,No,No,No,No,No,No
+40470,Racine,Racine,41.87592,-87.659458,Blue ,#00a1de,Forest Park,1,Forest Park,#00a1de,Yes,No,No,No,No,No,No,No
+40350,UIC-Halsted,UIC,41.875474,-87.649707,Blue ,#00a1de,Forest Park,1,Forest Park,#00a1de,Yes,No,No,No,No,No,No,No
+40220,Western-Forest Park,Western,41.875478,-87.688436,Blue ,#00a1de,Forest Park,1,Forest Park,#00a1de,Yes,No,No,No,No,No,No,No
+41420,Addison-North Main,Addison,41.947428,-87.653626,Red ,#c60c30,Howard,1,Howard,#c60c30,No,No,No,No,No,No,Yes,No
+41200,Argyle,Argyle,41.973453,-87.65853,Red ,#c60c30,Howard,1,Howard,#c60c30,No,No,No,No,No,No,Yes,No
+40340,Berwyn,Berwyn,41.977984,-87.658668,Red ,#c60c30,Howard,1,Howard,#c60c30,No,No,No,No,No,No,Yes,No
+41380,Bryn Mawr,Bryn Mawr,41.983504,-87.65884,Red ,#c60c30,Howard,1,Howard,#c60c30,No,No,No,No,No,No,Yes,No
+41450,Chicago/State,Chicago,41.896671,-87.628176,Red ,#c60c30,Howard,1,Howard,#c60c30,No,No,No,No,No,No,Yes,No
+40630,Clark/Division,Clark/Division,41.90392,-87.631412,Red ,#c60c30,Howard,1,Howard,#c60c30,No,No,No,No,No,No,Yes,No
+40330,Grand/State,Grand,41.891665,-87.628021,Red ,#c60c30,Howard,1,Howard,#c60c30,No,No,No,No,No,No,Yes,No
+40760,Granville,Granville,41.993664,-87.659202,Red ,#c60c30,Howard,1,Howard,#c60c30,No,No,No,No,No,No,Yes,No
+41190,Jarvis,Jarvis,42.015876,-87.669092,Red ,#c60c30,Howard,1,Howard,#c60c30,No,No,No,No,No,No,Yes,No
+41660,Lake-State,Lake,41.884809,-87.627813,Red ,#c60c30,Howard,1,Howard,#c60c30,No,No,No,No,No,No,Yes,No
+40770,Lawrence,Lawrence,41.969139,-87.658493,Red ,#c60c30,Howard,1,Howard,#c60c30,No,No,No,No,No,No,Yes,No
+41300,Loyola,Loyola,42.001073,-87.661061,Red ,#c60c30,Howard,1,Howard,#c60c30,No,No,No,No,No,No,Yes,No
+40100,Morse,Morse,42.008362,-87.665909,Red ,#c60c30,Howard,1,Howard,#c60c30,No,No,No,No,No,No,Yes,No
+40650,North/Clybourn,North/Clybourn,41.910655,-87.649177,Red ,#c60c30,Howard,1,Howard,#c60c30,No,No,No,No,No,No,Yes,No
+40080,Sheridan,Sheridan,41.953775,-87.654929,Red ,#c60c30,Howard,1,Howard,#c60c30,No,No,No,No,No,No,Yes,No
+40880,Thorndale,Thorndale,41.990259,-87.659076,Red ,#c60c30,Howard,1,Howard,#c60c30,No,No,No,No,No,No,Yes,No
+40540,Wilson,Wilson,41.964273,-87.657588,Red ,#c60c30,Howard,1,Howard,#c60c30,No,No,No,No,No,No,Yes,No
+41440,Addison-Brown,Addison,41.947028,-87.674642,Brown ,#62361b,Kimball,1,Kimball,#62361b,No,Yes,No,No,No,No,No,No
+40090,Damen-Brown,Damen,41.966286,-87.678639,Brown ,#62361b,Kimball,1,Kimball,#62361b,No,Yes,No,No,No,No,No,No
+40870,Francisco,Francisco,41.966046,-87.701644,Brown ,#62361b,Kimball,1,Kimball,#62361b,No,Yes,No,No,No,No,No,No
+41460,Irving Park-Brown,Irving Park,41.954521,-87.674868,Brown ,#62361b,Kimball,1,Kimball,#62361b,No,Yes,No,No,No,No,No,No
+41180,Kedzie-Brown,Kedzie,41.965996,-87.708821,Brown ,#62361b,Kimball,1,Kimball,#62361b,No,Yes,No,No,No,No,No,No
+41290,Kimball,Kimball,41.967901,-87.713065,Brown ,#62361b,Kimball,1,Kimball,#62361b,No,Yes,No,No,No,No,No,No
+41500,Montrose-Brown,Montrose,41.961756,-87.675047,Brown ,#62361b,Kimball,1,Kimball,#62361b,No,Yes,No,No,No,No,No,No
+41310,Paulina,Paulina,41.943623,-87.670907,Brown ,#62361b,Kimball,1,Kimball,#62361b,No,Yes,No,No,No,No,No,No
+41010,Rockwell,Rockwell,41.966115,-87.6941,Brown ,#62361b,Kimball,1,Kimball,#62361b,No,Yes,No,No,No,No,No,No
+40360,Southport,Southport,41.943744,-87.663619,Brown ,#62361b,Kimball,1,Kimball,#62361b,No,Yes,No,No,No,No,No,No
+41480,Western-Brown,Western,41.966163,-87.688502,Brown ,#62361b,Kimball,1,Kimball,#62361b,No,Yes,No,No,No,No,No,No
+41250,Central-Evanston,Central,42.063987,-87.685617,Purple ,#522398,Linden,1,Linden,#522398,No,No,No,No,No,Yes,No,No
+40050,Davis,Davis,42.04771,-87.683543,Purple ,#522398,Linden,1,Linden,#522398,No,No,No,No,No,Yes,No,No
+40690,Dempster,Dempster,42.041655,-87.681602,Purple ,#522398,Linden,1,Linden,#522398,No,No,No,No,No,Yes,No,No
+40520,Foster,Foster,42.05416,-87.68356,Purple ,#522398,Linden,1,Linden,#522398,No,No,No,No,No,Yes,No,No
+41050,Linden,Linden,42.073153,-87.69073,Purple ,#522398,Linden,1,Linden,#522398,No,No,No,No,No,Yes,No,No
+40270,Main,Main,42.033456,-87.679538,Purple ,#522398,Linden,1,Linden,#522398,No,No,No,No,No,Yes,No,No
+40400,Noyes,Noyes,42.058282,-87.683337,Purple ,#522398,Linden,1,Linden,#522398,No,No,No,No,No,Yes,No,No
+40840,South Boulevard,South Boulevard,42.027612,-87.678329,Purple ,#522398,Linden,1,Linden,#522398,No,No,No,No,No,Yes,No,No
+40680,Adams/Wabash,Adams/Wabash,41.879507,-87.626037,Brown ,#62361b,Loop,0.2,Loop,#636363,No,Yes,Yes,Yes,Yes,Yes,No,No
+40680,Adams/Wabash,Adams/Wabash,41.879507,-87.626037,Green ,#009b3a,Loop,0.2,Loop,#636363,No,Yes,Yes,Yes,Yes,Yes,No,No
+40680,Adams/Wabash,Adams/Wabash,41.879507,-87.626037,Orange ,#f9461c,Loop,0.2,Loop,#636363,No,Yes,Yes,Yes,Yes,Yes,No,No
+40680,Adams/Wabash,Adams/Wabash,41.879507,-87.626037,Pink ,#e27ea6,Loop,0.2,Loop,#636363,No,Yes,Yes,Yes,Yes,Yes,No,No
+40680,Adams/Wabash,Adams/Wabash,41.879507,-87.626037,Purple ,#522398,Loop,0.2,Loop,#636363,No,Yes,Yes,Yes,Yes,Yes,No,No
+40380,Clark/Lake,Clark/Lake,41.885737,-87.630886,Blue ,#00a1de,Loop,0.167,Loop,#636363,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+40380,Clark/Lake,Clark/Lake,41.885737,-87.630886,Brown ,#62361b,Loop,0.167,Loop,#636363,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+40380,Clark/Lake,Clark/Lake,41.885737,-87.630886,Green ,#009b3a,Loop,0.167,Loop,#636363,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+40380,Clark/Lake,Clark/Lake,41.885737,-87.630886,Orange ,#f9461c,Loop,0.167,Loop,#636363,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+40380,Clark/Lake,Clark/Lake,41.885737,-87.630886,Pink ,#e27ea6,Loop,0.167,Loop,#636363,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+40380,Clark/Lake,Clark/Lake,41.885737,-87.630886,Purple ,#522398,Loop,0.167,Loop,#636363,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+40160,LaSalle/Van Buren,LaSalle/Van Buren,41.8768,-87.631739,Brown,#62361b,Loop,0.25,Loop,#636363,No,Yes,No,Yes,Yes,Yes,No,No
+40160,LaSalle/Van Buren,LaSalle/Van Buren,41.8768,-87.631739,Orange ,#f9461c,Loop,0.25,Loop,#636363,No,Yes,No,Yes,Yes,Yes,No,No
+40160,LaSalle/Van Buren,LaSalle/Van Buren,41.8768,-87.631739,Pink ,#e27ea6,Loop,0.25,Loop,#636363,No,Yes,No,Yes,Yes,Yes,No,No
+40160,LaSalle/Van Buren,LaSalle/Van Buren,41.8768,-87.631739,Purple ,#522398,Loop,0.25,Loop,#636363,No,Yes,No,Yes,Yes,Yes,No,No
+40850,Library,Harold Washington Library ,41.876862,-87.628196,Brown,#62361b,Loop,0.25,Loop,#636363,No,Yes,No,Yes,Yes,Yes,No,No
+40850,Library,Harold Washington Library ,41.876862,-87.628196,Orange ,#f9461c,Loop,0.25,Loop,#636363,No,Yes,No,Yes,Yes,Yes,No,No
+40850,Library,Harold Washington Library ,41.876862,-87.628196,Pink ,#e27ea6,Loop,0.25,Loop,#636363,No,Yes,No,Yes,Yes,Yes,No,No
+40850,Library,Harold Washington Library ,41.876862,-87.628196,Purple ,#522398,Loop,0.25,Loop,#636363,No,Yes,No,Yes,Yes,Yes,No,No
+40040,Quincy/Wells,Quincy/Wells,41.878723,-87.63374,Brown,#62361b,Loop,0.25,Loop,#636363,No,Yes,No,Yes,Yes,Yes,No,No
+40040,Quincy/Wells,Quincy/Wells,41.878723,-87.63374,Orange ,#f9461c,Loop,0.25,Loop,#636363,No,Yes,No,Yes,Yes,Yes,No,No
+40040,Quincy/Wells,Quincy/Wells,41.878723,-87.63374,Pink ,#e27ea6,Loop,0.25,Loop,#636363,No,Yes,No,Yes,Yes,Yes,No,No
+40040,Quincy/Wells,Quincy/Wells,41.878723,-87.63374,Purple ,#522398,Loop,0.25,Loop,#636363,No,Yes,No,Yes,Yes,Yes,No,No
+40260,State/Lake,State/Lake,41.88574,-87.627835,Brown ,#62361b,Loop,0.2,Loop,#636363,No,Yes,Yes,Yes,Yes,Yes,No,No
+40260,State/Lake,State/Lake,41.88574,-87.627835,Green ,#009b3a,Loop,0.2,Loop,#636363,No,Yes,Yes,Yes,Yes,Yes,No,No
+40260,State/Lake,State/Lake,41.88574,-87.627835,Orange ,#f9461c,Loop,0.2,Loop,#636363,No,Yes,Yes,Yes,Yes,Yes,No,No
+40260,State/Lake,State/Lake,41.88574,-87.627835,Pink ,#e27ea6,Loop,0.2,Loop,#636363,No,Yes,Yes,Yes,Yes,Yes,No,No
+40260,State/Lake,State/Lake,41.88574,-87.627835,Purple ,#522398,Loop,0.2,Loop,#636363,No,Yes,Yes,Yes,Yes,Yes,No,No
+41700,Washington/Wabash,Washington/Wabash,41.88322,-87.626189,Brown ,#62361b,Loop,0.2,Loop,#636363,No,Yes,Yes,Yes,Yes,Yes,No,No
+41700,Washington/Wabash,Washington/Wabash,41.88322,-87.626189,Green,#009b3a,Loop,0.2,Loop,#636363,No,Yes,Yes,Yes,Yes,Yes,No,No
+41700,Washington/Wabash,Washington/Wabash,41.88322,-87.626189,Orange ,#f9461c,Loop,0.2,Loop,#636363,No,Yes,Yes,Yes,Yes,Yes,No,No
+41700,Washington/Wabash,Washington/Wabash,41.88322,-87.626189,Pink ,#e27ea6,Loop,0.2,Loop,#636363,No,Yes,Yes,Yes,Yes,Yes,No,No
+41700,Washington/Wabash,Washington/Wabash,41.88322,-87.626189,Purple ,#522398,Loop,0.2,Loop,#636363,No,Yes,Yes,Yes,Yes,Yes,No,No
+40730,Washington/Wells,Washington/Wells,41.882695,-87.63378,Brown,#62361b,Loop,0.25,Loop,#636363,No,Yes,No,Yes,Yes,Yes,No,No
+40730,Washington/Wells,Washington/Wells,41.882695,-87.63378,Orange ,#f9461c,Loop,0.25,Loop,#636363,No,Yes,No,Yes,Yes,Yes,No,No
+40730,Washington/Wells,Washington/Wells,41.882695,-87.63378,Pink ,#e27ea6,Loop,0.25,Loop,#636363,No,Yes,No,Yes,Yes,Yes,No,No
+40730,Washington/Wells,Washington/Wells,41.882695,-87.63378,Purple ,#522398,Loop,0.25,Loop,#636363,No,Yes,No,Yes,Yes,Yes,No,No
+40120,35th/Archer,35th/Archer,41.829353,-87.680622,Orange ,#f9461c,Midway,1,Midway,#f9461c,No,No,No,Yes,No,No,No,No
+41060,Ashland-Orange,Ashland,41.839234,-87.665317,Orange ,#f9461c,Midway,1,Midway,#f9461c,No,No,No,Yes,No,No,No,No
+41130,Halsted-Orange,Halsted,41.84678,-87.648088,Orange ,#f9461c,Midway,1,Midway,#f9461c,No,No,No,Yes,No,No,No,No
+41150,Kedzie-Midway,Kedzie,41.804236,-87.704406,Orange ,#f9461c,Midway,1,Midway,#f9461c,No,No,No,Yes,No,No,No,No
+40930,Midway Airport,Midway Airport,41.78661,-87.737875,Orange ,#f9461c,Midway,1,Midway,#f9461c,No,No,No,Yes,No,No,No,No
+40960,Pulaski-Orange,Pulaski,41.799756,-87.724493,Orange ,#f9461c,Midway,1,Midway,#f9461c,No,No,No,Yes,No,No,No,No
+40310,Western-Orange,Western,41.804546,-87.684019,Orange ,#f9461c,Midway,1,Midway,#f9461c,No,No,No,Yes,No,No,No,No
+40660,Armitage,Armitage,41.918217,-87.652644,Brown,#62361b,Multi Branch,0.866,Kimball,#62361b,No,Yes,No,No,No,Yes,No,No
+40660,Armitage,Armitage,41.918217,-87.652644,Purple ,#522398,Multi Branch,0.134,Linden,#522398,No,Yes,No,No,No,Yes,No,No
+40170,Ashland-Lake,Ashland,41.885269,-87.666969,Green,#009b3a,Multi Branch,0.5,Oak Park,#009b3a,No,No,Yes,No,Yes,No,No,No
+40170,Ashland-Lake,Ashland,41.885269,-87.666969,Pink ,#e27ea6,Multi Branch,0.5,Cermak,#e27ea6,No,No,Yes,No,Yes,No,No,No
+41320,Belmont-North Main,Belmont,41.939751,-87.65338,Brown,#62361b,Multi Branch,0.404,Kimball,#62361b,No,Yes,No,No,No,Yes,Yes,No
+41320,Belmont-North Main,Belmont,41.939751,-87.65338,Purple ,#522398,Multi Branch,0.079,Linden,#522398,No,Yes,No,No,No,Yes,Yes,No
+41320,Belmont-North Main,Belmont,41.939751,-87.65338,Red,#c60c30,Multi Branch,0.517,Howard,#c60c30,No,Yes,No,No,No,Yes,Yes,No
+40710,Chicago/Franklin,Chicago/Franklin,41.89681,-87.635924,Brown,#62361b,Multi Branch,0.866,Kimball,#62361b,No,Yes,No,No,No,Yes,No,No
+40710,Chicago/Franklin,Chicago/Franklin,41.89681,-87.635924,Purple ,#522398,Multi Branch,0.134,Linden,#522398,No,Yes,No,No,No,Yes,No,No
+41160,Clinton-Lake,Clinton,41.885678,-87.641782,Green,#009b3a,Multi Branch,0.5,Oak Park,#009b3a,No,No,Yes,No,Yes,No,No,No
+41160,Clinton-Lake,Clinton,41.885678,-87.641782,Pink ,#e27ea6,Multi Branch,0.5,Cermak,#e27ea6,No,No,Yes,No,Yes,No,No,No
+40530,Diversey,Diversey,41.932732,-87.653131,Brown,#62361b,Multi Branch,0.866,Kimball,#62361b,No,Yes,No,No,No,Yes,No,No
+40530,Diversey,Diversey,41.932732,-87.653131,Purple ,#522398,Multi Branch,0.134,Linden,#522398,No,Yes,No,No,No,Yes,No,No
+41220,Fullerton,Fullerton,41.925051,-87.652866,Brown,#62361b,Multi Branch,0.404,Kimball,#62361b,No,Yes,No,No,No,Yes,Yes,No
+41220,Fullerton,Fullerton,41.925051,-87.652866,Purple ,#522398,Multi Branch,0.079,Linden,#522398,No,Yes,No,No,No,Yes,Yes,No
+41220,Fullerton,Fullerton,41.925051,-87.652866,Red,#c60c30,Multi Branch,0.517,Howard,#c60c30,No,Yes,No,No,No,Yes,Yes,No
+40900,Howard,Howard,42.019063,-87.672892,Purple ,#522398,Multi Branch,0.363,Linden,#522398,No,No,No,No,No,Yes,Yes,Yes
+40900,Howard,Howard,42.019063,-87.672892,Red,#c60c30,Multi Branch,0.514,Howard,#c60c30,No,No,No,No,No,Yes,Yes,Yes
+40900,Howard,Howard,42.019063,-87.672892,Yellow ,#f9e300,Multi Branch,0.123,Skokie,#f9e300,No,No,No,No,No,Yes,Yes,Yes
+40460,Merchandise Mart,Merchandise Mart,41.888969,-87.633924,Brown,#62361b,Multi Branch,0.866,Kimball,#62361b,No,Yes,No,No,No,Yes,No,No
+40460,Merchandise Mart,Merchandise Mart,41.888969,-87.633924,Purple ,#522398,Multi Branch,0.134,Linden,#522398,No,Yes,No,No,No,Yes,No,No
+41510,Morgan-Lake,Morgan,41.885586,-87.652193,Green,#009b3a,Multi Branch,0.5,Oak Park,#009b3a,No,No,Yes,No,Yes,No,No,No
+41510,Morgan-Lake,Morgan,41.885586,-87.652193,Pink ,#e27ea6,Multi Branch,0.5,Cermak,#e27ea6,No,No,Yes,No,Yes,No,No,No
+41400,Roosevelt,Roosevelt,41.867368,-87.627402,Green,#009b3a,Multi Branch,0.288,Cottage Grove - 63rd,#009b3a,No,No,Yes,Yes,No,No,Yes,No
+41400,Roosevelt,Roosevelt,41.867368,-87.627402,Orange ,#f9461c,Multi Branch,0.317,Midway,#f9461c,No,No,Yes,Yes,No,No,Yes,No
+41400,Roosevelt,Roosevelt,41.867368,-87.627402,Red,#c60c30,Multi Branch,0.395,95th,#c60c30,No,No,Yes,Yes,No,No,Yes,No
+40800,Sedgwick,Sedgwick,41.910409,-87.639302,Brown,#62361b,Multi Branch,0.866,Kimball,#62361b,No,Yes,No,No,No,Yes,No,No
+40800,Sedgwick,Sedgwick,41.910409,-87.639302,Purple ,#522398,Multi Branch,0.134,Linden,#522398,No,Yes,No,No,No,Yes,No,No
+41210,Wellington,Wellington,41.936033,-87.653266,Brown,#62361b,Multi Branch,0.866,Kimball,#62361b,No,Yes,No,No,No,Yes,No,No
+41210,Wellington,Wellington,41.936033,-87.653266,Purple ,#522398,Multi Branch,0.134,Linden,#522398,No,Yes,No,No,No,Yes,No,No
+41260,Austin-Lake,Austin,41.887293,-87.774135,Green ,#009b3a,Oak Park,1,Oak Park,#009b3a,No,No,Yes,No,No,No,No,No
+41360,California-Lake,California,41.88422,-87.696234,Green ,#009b3a,Oak Park,1,Oak Park,#009b3a,No,No,Yes,No,No,No,No,No
+40280,Central-Lake,Central,41.887389,-87.76565,Green ,#009b3a,Oak Park,1,Oak Park,#009b3a,No,No,Yes,No,No,No,No,No
+40480,Cicero-Forest Park,Cicero,41.886519,-87.744698,Green ,#009b3a,Oak Park,1,Oak Park,#009b3a,No,No,Yes,No,No,No,No,No
+41670,Conservatory,Conservatory,41.884904,-87.716523,Green ,#009b3a,Oak Park,1,Oak Park,#009b3a,No,No,Yes,No,No,No,No,No
+41710,Damen-Lake,Damen,41.885017,-87.676903,Green,#009b3a,Oak Park,1,Oak Park,#009b3a,No,No,Yes,No,No,No,No,No
+40020,Harlem-Lake,Harlem,41.886848,-87.803176,Green ,#009b3a,Oak Park,1,Oak Park,#009b3a,No,No,Yes,No,No,No,No,No
+41070,Kedzie-Lake,Kedzie,41.884321,-87.706155,Green ,#009b3a,Oak Park,1,Oak Park,#009b3a,No,No,Yes,No,No,No,No,No
+40700,Laramie,Laramie,41.887163,-87.754986,Green ,#009b3a,Oak Park,1,Oak Park,#009b3a,No,No,Yes,No,No,No,No,No
+41350,Oak Park-Lake,Oak Park,41.886988,-87.793783,Green ,#009b3a,Oak Park,1,Oak Park,#009b3a,No,No,Yes,No,No,No,No,No
+40030,Pulaski-Lake,Pulaski,41.885412,-87.725404,Green ,#009b3a,Oak Park,1,Oak Park,#009b3a,No,No,Yes,No,No,No,No,No
+40610,Ridgeland,Ridgeland,41.887159,-87.783661,Green ,#009b3a,Oak Park,1,Oak Park,#009b3a,No,No,Yes,No,No,No,No,No
+41240,Addison-O'Hare,Addison,41.94738,-87.71906,Blue ,#00a1de,O'Hare,1,O'Hare,#00a1de,Yes,No,No,No,No,No,No,No
+40060,Belmont-O'Hare,Belmont,41.938132,-87.712359,Blue ,#00a1de,O'Hare,1,O'Hare,#00a1de,Yes,No,No,No,No,No,No,No
+40570,California-Milwaukee,California,41.921939,-87.69689,Blue ,#00a1de,O'Hare,1,O'Hare,#00a1de,Yes,No,No,No,No,No,No,No
+41410,Chicago/Milwaukee,Chicago,41.896075,-87.655214,Blue ,#00a1de,O'Hare,1,O'Hare,#00a1de,Yes,No,No,No,No,No,No,No
+40230,Cumberland,Cumberland,41.984246,-87.838028,Blue ,#00a1de,O'Hare,1,O'Hare,#00a1de,Yes,No,No,No,No,No,No,No
+40590,Damen/Milwaukee,Damen,41.909744,-87.677437,Blue ,#00a1de,O'Hare,1,O'Hare,#00a1de,Yes,No,No,No,No,No,No,No
+40320,Division/Milwaukee,Division,41.903355,-87.666496,Blue ,#00a1de,O'Hare,1,O'Hare,#00a1de,Yes,No,No,No,No,No,No,No
+40490,Grand/Milwaukee,Grand,41.891189,-87.647578,Blue ,#00a1de,O'Hare,1,O'Hare,#00a1de,Yes,No,No,No,No,No,No,No
+40750,Harlem-O'Hare,Harlem,41.98227,-87.8089,Blue ,#00a1de,O'Hare,1,O'Hare,#00a1de,Yes,No,No,No,No,No,No,No
+40550,Irving Park-O'Hare,Irving Park,41.952925,-87.729229,Blue ,#00a1de,O'Hare,1,O'Hare,#00a1de,Yes,No,No,No,No,No,No,No
+41280,Jefferson Park,Jefferson Park,41.970634,-87.760892,Blue ,#00a1de,O'Hare,1,O'Hare,#00a1de,Yes,No,No,No,No,No,No,No
+41020,Logan Square,Logan Square,41.929728,-87.708541,Blue ,#00a1de,O'Hare,1,O'Hare,#00a1de,Yes,No,No,No,No,No,No,No
+41330,Montrose-O'Hare,Montrose,41.961539,-87.743574,Blue ,#00a1de,O'Hare,1,O'Hare,#00a1de,Yes,No,No,No,No,No,No,No
+40890,O'Hare Airport,O'Hare Airport,41.97766526,-87.90422307,Blue ,#00a1de,O'Hare,1,O'Hare,#00a1de,Yes,No,No,No,No,No,No,No
+40820,Rosemont,Rosemont,41.983507,-87.859388,Blue ,#00a1de,O'Hare,1,O'Hare,#00a1de,Yes,No,No,No,No,No,No,No
+40370,Washington/Dearborn,Washington,41.883164,-87.62944,Blue ,#00a1de,O'Hare,1,O'Hare,#00a1de,Yes,No,No,No,No,No,No,No
+40670,Western/Milwaukee,Western,41.916157,-87.687364,Blue ,#00a1de,O'Hare,1,O'Hare,#00a1de,Yes,No,No,No,No,No,No,No
+40140,Dempster-Skokie,Dempster ,42.038951,-87.751919,Yellow ,#f9e300,Skokie,1,Skokie,#f9e300,No,No,No,No,No,No,No,Yes
+41680,Oakton-Skokie,Oakton,42.02624348,-87.74722084,Yellow ,#f9e300,Skokie,1,Skokie,#f9e300,No,No,No,No,No,No,No,Yes
