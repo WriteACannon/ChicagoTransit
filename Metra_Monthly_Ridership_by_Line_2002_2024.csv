@@ -1,0 +1,3026 @@
+﻿LONGNAME,YEAR,MONTH,RIDES,RIDERSHIP_ID
+BNSF,2002,12,1138803,10
+BNSF,2002,11,1198694,10
+BNSF,2002,10,1238187,10
+BNSF,2002,9,1195322,10
+BNSF,2002,8,1213011,10
+BNSF,2002,7,1264209,10
+BNSF,2002,6,1206147,10
+BNSF,2002,5,1310440,10
+BNSF,2002,4,1238238,10
+BNSF,2002,3,1219379,10
+BNSF,2002,2,1195045,10
+BNSF,2002,1,1267137,10
+BNSF,2003,12,1175761,10
+BNSF,2003,11,1194046,10
+BNSF,2003,10,1273626,10
+BNSF,2003,9,1232352,10
+BNSF,2003,8,1237833,10
+BNSF,2003,7,1328759,10
+BNSF,2003,6,1249195,10
+BNSF,2003,5,1213393,10
+BNSF,2003,4,1203242,10
+BNSF,2003,3,1200444,10
+BNSF,2003,2,1154622,10
+BNSF,2003,1,1195960,10
+BNSF,2004,12,1170226,10
+BNSF,2004,11,1253666,10
+BNSF,2004,10,1261094,10
+BNSF,2004,9,1247830,10
+BNSF,2004,8,1265138,10
+BNSF,2004,7,1284459,10
+BNSF,2004,6,1307082,10
+BNSF,2004,5,1194338,10
+BNSF,2004,4,1219049,10
+BNSF,2004,3,1235636,10
+BNSF,2004,2,1169489,10
+BNSF,2004,1,1203968,10
+BNSF,2005,12,1235175,10
+BNSF,2005,11,1305750,10
+BNSF,2005,10,1322343,10
+BNSF,2005,9,1316211,10
+BNSF,2005,8,1319092,10
+BNSF,2005,7,1315336,10
+BNSF,2005,6,1341012,10
+BNSF,2005,5,1246515,10
+BNSF,2005,4,1246360,10
+BNSF,2005,3,1247979,10
+BNSF,2005,2,1192057,10
+BNSF,2005,1,1242260,10
+BNSF,2006,12,1232361,10
+BNSF,2006,11,1331645,10
+BNSF,2006,10,1360227,10
+BNSF,2006,9,1322566,10
+BNSF,2006,8,1381011,10
+BNSF,2006,7,1392417,10
+BNSF,2006,6,1361076,10
+BNSF,2006,5,1313962,10
+BNSF,2006,4,1286343,10
+BNSF,2006,3,1290983,10
+BNSF,2006,2,1206841,10
+BNSF,2006,1,1349925,10
+BNSF,2007,12,1279964,10
+BNSF,2007,11,1373595,10
+BNSF,2007,10,1440911,10
+BNSF,2007,9,1374708,10
+BNSF,2007,8,1416006,10
+BNSF,2007,7,1454015,10
+BNSF,2007,6,1427156,10
+BNSF,2007,5,1365920,10
+BNSF,2007,4,1324623,10
+BNSF,2007,3,1326045,10
+BNSF,2007,2,1245401,10
+BNSF,2007,1,1315487,10
+BNSF,2008,12,1294196,10
+BNSF,2008,11,1345150,10
+BNSF,2008,10,1459093,10
+BNSF,2008,9,1432238,10
+BNSF,2008,8,1465719,10
+BNSF,2008,7,1554401,10
+BNSF,2008,6,1481192,10
+BNSF,2008,5,1425245,10
+BNSF,2008,4,1413704,10
+BNSF,2008,3,1360732,10
+BNSF,2008,2,1281554,10
+BNSF,2008,1,1530069,10
+BNSF,2009,12,1265096,10
+BNSF,2009,11,1327980,10
+BNSF,2009,10,1367454,10
+BNSF,2009,9,1375942,10
+BNSF,2009,8,1390680,10
+BNSF,2009,7,1456677,10
+BNSF,2009,6,1404992,10
+BNSF,2009,5,1331855,10
+BNSF,2009,4,1337860,10
+BNSF,2009,3,1339645,10
+BNSF,2009,2,1290607,10
+BNSF,2009,1,1316161,10
+BNSF,2010,12,1267362,10
+BNSF,2010,11,1347029,10
+BNSF,2010,10,1374374,10
+BNSF,2010,9,1371879,10
+BNSF,2010,8,1427310,10
+BNSF,2010,7,1421026,10
+BNSF,2010,6,1455944,10
+BNSF,2010,5,1352852,10
+BNSF,2010,4,1366558,10
+BNSF,2010,3,1344367,10
+BNSF,2010,2,1267058,10
+BNSF,2010,1,1300226,10
+BNSF,2011,12,1278468,10
+BNSF,2011,11,1397293,10
+BNSF,2011,10,1420132,10
+BNSF,2011,9,1410247,10
+BNSF,2011,8,1475409,10
+BNSF,2011,7,1420567,10
+BNSF,2011,6,1474550,10
+BNSF,2011,5,1382276,10
+BNSF,2011,4,1358189,10
+BNSF,2011,3,1371292,10
+BNSF,2011,2,1251733,10
+BNSF,2011,1,1330149,10
+BNSF,2012,12,1220544,10
+BNSF,2012,11,1364019,10
+BNSF,2012,10,1422441,10
+BNSF,2012,9,1359005,10
+BNSF,2012,8,1430218,10
+BNSF,2012,7,1408474,10
+BNSF,2012,6,1430321,10
+BNSF,2012,5,1376854,10
+BNSF,2012,4,1376854,10
+BNSF,2012,3,1381798,10
+BNSF,2012,2,1282923,10
+BNSF,2012,1,1329413,10
+BNSF,2013,12,1292415,10
+BNSF,2013,11,1358435,10
+BNSF,2013,10,1437704,10
+BNSF,2013,9,1404638,10
+BNSF,2013,8,1447877,10
+BNSF,2013,7,1491225,10
+BNSF,2013,6,1427883,10
+BNSF,2013,5,1399099,10
+BNSF,2013,4,1363901,10
+BNSF,2013,3,1348221,10
+BNSF,2013,2,1278759,10
+BNSF,2013,1,1303365,10
+BNSF,2014,12,1325052,10
+BNSF,2014,11,1346243,10
+BNSF,2014,10,1442046,10
+BNSF,2014,9,1422597,10
+BNSF,2014,8,1437291,10
+BNSF,2014,7,1489997,10
+BNSF,2014,6,1451029,10
+BNSF,2014,5,1393053,10
+BNSF,2014,4,1378607,10
+BNSF,2014,3,1371440,10
+BNSF,2014,2,1289884,10
+BNSF,2014,1,1311122,10
+BNSF,2015,12,1270736.5,10
+BNSF,2015,11,1324596.5,10
+BNSF,2015,10,1391497,10
+BNSF,2015,9,1394956.5,10
+BNSF,2015,8,1433226,10
+BNSF,2015,7,1453710,10
+BNSF,2015,6,1460710,10
+BNSF,2015,5,1345755,10
+BNSF,2015,4,1353326.5,10
+BNSF,2015,3,1356288.5,10
+BNSF,2015,2,1260583,10
+BNSF,2015,1,1354904,10
+BNSF,2016,12,1247979.5,10
+BNSF,2016,11,1415388.5,10
+BNSF,2016,10,1395436.5,10
+BNSF,2016,9,1362742,10
+BNSF,2016,8,1393071,10
+BNSF,2016,7,1443040,10
+BNSF,2016,6,1435372,10
+BNSF,2016,5,1356078,10
+BNSF,2016,4,1321817,10
+BNSF,2016,3,1346559,10
+BNSF,2016,2,1277911,10
+BNSF,2016,1,1322520,10
+BNSF,2017,12,1220340,10
+BNSF,2017,11,1339906,10
+BNSF,2017,10,1400930.5,10
+BNSF,2017,9,1355257.5,10
+BNSF,2017,8,1466675.5,10
+BNSF,2017,7,1394828.5,10
+BNSF,2017,6,1439250.5,10
+BNSF,2017,5,1357077.5,10
+BNSF,2017,4,1303402.5,10
+BNSF,2017,3,1333487.5,10
+BNSF,2017,2,1232951.5,10
+BNSF,2017,1,1384284.5,10
+BNSF,2018,12,1171105,10
+BNSF,2018,11,1291803,10
+BNSF,2018,10,1378720,10
+BNSF,2018,9,1322320.5,10
+BNSF,2018,8,1400412.5,10
+BNSF,2018,7,1379284,10
+BNSF,2018,6,1383374,10
+BNSF,2018,5,1351874,10
+BNSF,2018,4,1290573,10
+BNSF,2018,3,1284242,10
+BNSF,2018,2,1182653,10
+BNSF,2018,1,1386291,10
+BNSF,2019,12,1186537.5,10
+BNSF,2019,11,1256238.5,10
+BNSF,2019,10,1359812,10
+BNSF,2019,9,1306524.5,10
+BNSF,2019,8,1356556,10
+BNSF,2019,7,1357247,10
+BNSF,2019,6,1341519.5,10
+BNSF,2019,5,1312254.5,10
+BNSF,2019,4,1300645,10
+BNSF,2019,3,1258543,10
+BNSF,2019,2,1208521,10
+BNSF,2019,1,1223615,10
+BNSF,2020,12,75763.7,10
+BNSF,2020,11,72406.6,10
+BNSF,2020,10,97636.3,10
+BNSF,2020,9,101196.9,10
+BNSF,2020,8,93860.4,10
+BNSF,2020,7,103113,10
+BNSF,2020,6,86257.1,10
+BNSF,2020,5,29483,10
+BNSF,2020,4,25052,10
+BNSF,2020,3,499427.4,10
+BNSF,2020,2,1213309,10
+BNSF,2020,1,1258782.5,10
+BNSF,2021,12,253861.2,10
+BNSF,2021,11,301660.9,10
+BNSF,2021,10,304317.7,10
+BNSF,2021,9,284841.3,10
+BNSF,2021,8,284664.6,10
+BNSF,2021,7,299083.5,10
+BNSF,2021,6,228833,10
+BNSF,2021,5,151457,10
+BNSF,2021,4,113658.2,10
+BNSF,2021,3,107139.3,10
+BNSF,2021,2,75401.2,10
+BNSF,2021,1,78864.5,10
+BNSF,2022,12,350370.8,10
+BNSF,2022,11,427548.9,10
+BNSF,2022,10,454051.6,10
+BNSF,2022,9,456273.2,10
+BNSF,2022,8,468462.2,10
+BNSF,2022,7,429875.4,10
+BNSF,2022,6,431353.2,10
+BNSF,2022,5,369865,10
+BNSF,2022,4,354055.3,10
+BNSF,2022,3,354930.3,10
+BNSF,2022,2,230348.6,10
+BNSF,2022,1,181014.9,10
+BNSF,2023,12,449143.4,10
+BNSF,2023,11,528052.4,10
+BNSF,2023,10,593792.7,10
+BNSF,2023,9,549570.4,10
+BNSF,2023,8,610216.3,10
+BNSF,2023,7,528337.5,10
+BNSF,2023,6,560172,10
+BNSF,2023,5,546915.3,10
+BNSF,2023,4,459342.1,10
+BNSF,2023,3,498726.7,10
+BNSF,2023,2,401503.7,10
+BNSF,2023,1,439884.6,10
+BNSF,2024,11,543658.3,10
+BNSF,2024,10,668750.3,10
+BNSF,2024,9,598688.2,10
+BNSF,2024,8,572403.3,10
+BNSF,2024,7,646060.5,10
+BNSF,2024,6,605840,10
+BNSF,2024,5,603422.3,10
+BNSF,2024,4,584339.1,10
+BNSF,2024,3,529152.3,10
+BNSF,2024,2,515389.3,10
+BNSF,2024,1,497906.9,10
+Heritage Corridor,2002,12,44282,9
+Heritage Corridor,2002,11,49388,9
+Heritage Corridor,2002,10,51588,9
+Heritage Corridor,2002,9,54007,9
+Heritage Corridor,2002,8,52452,9
+Heritage Corridor,2002,7,45246,9
+Heritage Corridor,2002,6,41820,9
+Heritage Corridor,2002,5,44391,9
+Heritage Corridor,2002,4,48499,9
+Heritage Corridor,2002,3,48280,9
+Heritage Corridor,2002,2,42549,9
+Heritage Corridor,2002,1,44840,9
+Heritage Corridor,2003,12,52834,9
+Heritage Corridor,2003,11,52520,9
+Heritage Corridor,2003,10,60906,9
+Heritage Corridor,2003,9,57752,9
+Heritage Corridor,2003,8,49702,9
+Heritage Corridor,2003,7,52291,9
+Heritage Corridor,2003,6,51901,9
+Heritage Corridor,2003,5,60193,9
+Heritage Corridor,2003,4,53645,9
+Heritage Corridor,2003,3,55397,9
+Heritage Corridor,2003,2,47746,9
+Heritage Corridor,2003,1,50141,9
+Heritage Corridor,2004,12,53655,9
+Heritage Corridor,2004,11,56235,9
+Heritage Corridor,2004,10,54234,9
+Heritage Corridor,2004,9,56422,9
+Heritage Corridor,2004,8,58490,9
+Heritage Corridor,2004,7,53095,9
+Heritage Corridor,2004,6,55685,9
+Heritage Corridor,2004,5,55165,9
+Heritage Corridor,2004,4,54317,9
+Heritage Corridor,2004,3,57381,9
+Heritage Corridor,2004,2,56309,9
+Heritage Corridor,2004,1,53755,9
+Heritage Corridor,2005,12,58875,9
+Heritage Corridor,2005,11,59465,9
+Heritage Corridor,2005,10,59307,9
+Heritage Corridor,2005,9,62556,9
+Heritage Corridor,2005,8,63806,9
+Heritage Corridor,2005,7,58252,9
+Heritage Corridor,2005,6,63102,9
+Heritage Corridor,2005,5,60004,9
+Heritage Corridor,2005,4,60853,9
+Heritage Corridor,2005,3,62798,9
+Heritage Corridor,2005,2,55483,9
+Heritage Corridor,2005,1,58572,9
+Heritage Corridor,2006,12,57260,9
+Heritage Corridor,2006,11,60241,9
+Heritage Corridor,2006,10,63731,9
+Heritage Corridor,2006,9,60655,9
+Heritage Corridor,2006,8,61060,9
+Heritage Corridor,2006,7,57787,9
+Heritage Corridor,2006,6,63498,9
+Heritage Corridor,2006,5,61186,9
+Heritage Corridor,2006,4,59797,9
+Heritage Corridor,2006,3,61294,9
+Heritage Corridor,2006,2,57167,9
+Heritage Corridor,2006,1,62203,9
+Heritage Corridor,2007,12,59671,9
+Heritage Corridor,2007,11,63725,9
+Heritage Corridor,2007,10,65914,9
+Heritage Corridor,2007,9,59142,9
+Heritage Corridor,2007,8,61126,9
+Heritage Corridor,2007,7,58749,9
+Heritage Corridor,2007,6,61301,9
+Heritage Corridor,2007,5,62053,9
+Heritage Corridor,2007,4,61639,9
+Heritage Corridor,2007,3,63065,9
+Heritage Corridor,2007,2,60483,9
+Heritage Corridor,2007,1,63386,9
+Heritage Corridor,2008,12,58308,9
+Heritage Corridor,2008,11,60396,9
+Heritage Corridor,2008,10,62504,9
+Heritage Corridor,2008,9,60667,9
+Heritage Corridor,2008,8,60987,9
+Heritage Corridor,2008,7,62343,9
+Heritage Corridor,2008,6,62178,9
+Heritage Corridor,2008,5,63630,9
+Heritage Corridor,2008,4,63808,9
+Heritage Corridor,2008,3,61383,9
+Heritage Corridor,2008,2,59441,9
+Heritage Corridor,2008,1,70724,9
+Heritage Corridor,2009,12,55862,9
+Heritage Corridor,2009,11,59360,9
+Heritage Corridor,2009,10,60399,9
+Heritage Corridor,2009,9,59537,9
+Heritage Corridor,2009,8,59893,9
+Heritage Corridor,2009,7,59594,9
+Heritage Corridor,2009,6,61392,9
+Heritage Corridor,2009,5,59625,9
+Heritage Corridor,2009,4,62738,9
+Heritage Corridor,2009,3,61930,9
+Heritage Corridor,2009,2,60626,9
+Heritage Corridor,2009,1,61513,9
+Heritage Corridor,2010,12,55283,9
+Heritage Corridor,2010,11,58460,9
+Heritage Corridor,2010,10,58220,9
+Heritage Corridor,2010,9,57711,9
+Heritage Corridor,2010,8,57313,9
+Heritage Corridor,2010,7,56337,9
+Heritage Corridor,2010,6,59097,9
+Heritage Corridor,2010,5,57240,9
+Heritage Corridor,2010,4,58998,9
+Heritage Corridor,2010,3,59514,9
+Heritage Corridor,2010,2,59226,9
+Heritage Corridor,2010,1,58085,9
+Heritage Corridor,2011,12,55351,9
+Heritage Corridor,2011,11,59679,9
+Heritage Corridor,2011,10,59831,9
+Heritage Corridor,2011,9,59277,9
+Heritage Corridor,2011,8,59748,9
+Heritage Corridor,2011,7,57589,9
+Heritage Corridor,2011,6,65113,9
+Heritage Corridor,2011,5,60186,9
+Heritage Corridor,2011,4,57915,9
+Heritage Corridor,2011,3,60452,9
+Heritage Corridor,2011,2,57009,9
+Heritage Corridor,2011,1,55154,9
+Heritage Corridor,2012,12,51285,9
+Heritage Corridor,2012,11,56864,9
+Heritage Corridor,2012,10,58547,9
+Heritage Corridor,2012,9,56435,9
+Heritage Corridor,2012,8,57595,9
+Heritage Corridor,2012,7,57718,9
+Heritage Corridor,2012,6,58488,9
+Heritage Corridor,2012,5,58111,9
+Heritage Corridor,2012,4,58111,9
+Heritage Corridor,2012,3,56555,9
+Heritage Corridor,2012,2,56145,9
+Heritage Corridor,2012,1,58165,9
+Heritage Corridor,2013,12,57796,9
+Heritage Corridor,2013,11,59744,9
+Heritage Corridor,2013,10,62838,9
+Heritage Corridor,2013,9,58823,9
+Heritage Corridor,2013,8,58459,9
+Heritage Corridor,2013,7,59292,9
+Heritage Corridor,2013,6,60446,9
+Heritage Corridor,2013,5,59101,9
+Heritage Corridor,2013,4,57799,9
+Heritage Corridor,2013,3,57380,9
+Heritage Corridor,2013,2,55882,9
+Heritage Corridor,2013,1,56310,9
+Heritage Corridor,2014,12,57803,9
+Heritage Corridor,2014,11,60887,9
+Heritage Corridor,2014,10,62549,9
+Heritage Corridor,2014,9,60591,9
+Heritage Corridor,2014,8,60262,9
+Heritage Corridor,2014,7,61738,9
+Heritage Corridor,2014,6,58977,9
+Heritage Corridor,2014,5,61414,9
+Heritage Corridor,2014,4,62692,9
+Heritage Corridor,2014,3,61326,9
+Heritage Corridor,2014,2,60807,9
+Heritage Corridor,2014,1,60093,9
+Heritage Corridor,2015,12,52861.5,9
+Heritage Corridor,2015,11,55385,9
+Heritage Corridor,2015,10,57969,9
+Heritage Corridor,2015,9,56709,9
+Heritage Corridor,2015,8,57083.5,9
+Heritage Corridor,2015,7,58706,9
+Heritage Corridor,2015,6,61942,9
+Heritage Corridor,2015,5,58235,9
+Heritage Corridor,2015,4,59047,9
+Heritage Corridor,2015,3,65683,9
+Heritage Corridor,2015,2,77052,9
+Heritage Corridor,2015,1,63130,9
+Heritage Corridor,2016,12,56319.5,9
+Heritage Corridor,2016,11,63267,9
+Heritage Corridor,2016,10,62740.5,9
+Heritage Corridor,2016,9,61379.5,9
+Heritage Corridor,2016,8,60621.5,9
+Heritage Corridor,2016,7,61313.5,9
+Heritage Corridor,2016,6,61946,9
+Heritage Corridor,2016,5,59351,9
+Heritage Corridor,2016,4,58871.5,9
+Heritage Corridor,2016,3,59212,9
+Heritage Corridor,2016,2,56643.5,9
+Heritage Corridor,2016,1,56086,9
+Heritage Corridor,2017,12,54557,9
+Heritage Corridor,2017,11,59833,9
+Heritage Corridor,2017,10,62310.5,9
+Heritage Corridor,2017,9,60243,9
+Heritage Corridor,2017,8,62625.5,9
+Heritage Corridor,2017,7,60560.5,9
+Heritage Corridor,2017,6,61907,9
+Heritage Corridor,2017,5,61195.5,9
+Heritage Corridor,2017,4,59234,9
+Heritage Corridor,2017,3,61823,9
+Heritage Corridor,2017,2,58244,9
+Heritage Corridor,2017,1,64651.5,9
+Heritage Corridor,2018,12,53444,9
+Heritage Corridor,2018,11,60622.5,9
+Heritage Corridor,2018,10,64602,9
+Heritage Corridor,2018,9,60592.5,9
+Heritage Corridor,2018,8,62759.5,9
+Heritage Corridor,2018,7,62176.5,9
+Heritage Corridor,2018,6,62418,9
+Heritage Corridor,2018,5,61191.5,9
+Heritage Corridor,2018,4,60755.5,9
+Heritage Corridor,2018,3,60041.5,9
+Heritage Corridor,2018,2,56644.5,9
+Heritage Corridor,2018,1,63219,9
+Heritage Corridor,2019,12,56894.5,9
+Heritage Corridor,2019,11,61175,9
+Heritage Corridor,2019,10,66854,9
+Heritage Corridor,2019,9,63730,9
+Heritage Corridor,2019,8,63722,9
+Heritage Corridor,2019,7,61256,9
+Heritage Corridor,2019,6,60760.5,9
+Heritage Corridor,2019,5,61455,9
+Heritage Corridor,2019,4,62345,9
+Heritage Corridor,2019,3,59534.5,9
+Heritage Corridor,2019,2,59191.5,9
+Heritage Corridor,2019,1,57179.5,9
+Heritage Corridor,2020,12,2697.9,9
+Heritage Corridor,2020,11,2585.1,9
+Heritage Corridor,2020,10,3628.7,9
+Heritage Corridor,2020,9,3465.5,9
+Heritage Corridor,2020,8,3527.8,9
+Heritage Corridor,2020,7,4028.3,9
+Heritage Corridor,2020,6,3483.4,9
+Heritage Corridor,2020,5,1010,9
+Heritage Corridor,2020,4,1326,9
+Heritage Corridor,2020,3,25900.5,9
+Heritage Corridor,2020,2,62575,9
+Heritage Corridor,2020,1,63296.5,9
+Heritage Corridor,2021,12,8438.4,9
+Heritage Corridor,2021,11,10907.8,9
+Heritage Corridor,2021,10,10745.9,9
+Heritage Corridor,2021,9,10342.8,9
+Heritage Corridor,2021,8,9704.9,9
+Heritage Corridor,2021,7,9066.5,9
+Heritage Corridor,2021,6,6796.3,9
+Heritage Corridor,2021,5,4311.8,9
+Heritage Corridor,2021,4,3427.9,9
+Heritage Corridor,2021,3,3350.1,9
+Heritage Corridor,2021,2,2519.1,9
+Heritage Corridor,2021,1,2585.9,9
+Heritage Corridor,2022,12,13613.8,9
+Heritage Corridor,2022,11,17487.7,9
+Heritage Corridor,2022,10,18326.8,9
+Heritage Corridor,2022,9,18785.4,9
+Heritage Corridor,2022,8,19705.9,9
+Heritage Corridor,2022,7,16432.4,9
+Heritage Corridor,2022,6,17361.6,9
+Heritage Corridor,2022,5,16036.7,9
+Heritage Corridor,2022,4,14910.5,9
+Heritage Corridor,2022,3,14947,9
+Heritage Corridor,2022,2,8810.1,9
+Heritage Corridor,2022,1,6472.5,9
+Heritage Corridor,2023,12,17051.2,9
+Heritage Corridor,2023,11,22361.4,9
+Heritage Corridor,2023,10,25183.6,9
+Heritage Corridor,2023,9,22202.8,9
+Heritage Corridor,2023,8,24714,9
+Heritage Corridor,2023,7,19908.7,9
+Heritage Corridor,2023,6,21615,9
+Heritage Corridor,2023,5,22411.6,9
+Heritage Corridor,2023,4,19550,9
+Heritage Corridor,2023,3,20942.2,9
+Heritage Corridor,2023,2,17663.5,9
+Heritage Corridor,2023,1,19302.5,9
+Heritage Corridor,2024,11,21712.1,9
+Heritage Corridor,2024,10,28874.5,9
+Heritage Corridor,2024,9,24563.2,9
+Heritage Corridor,2024,8,22196.8,9
+Heritage Corridor,2024,7,25768.9,9
+Heritage Corridor,2024,6,24155.6,9
+Heritage Corridor,2024,5,25974.3,9
+Heritage Corridor,2024,4,26050.9,9
+Heritage Corridor,2024,3,23218.7,9
+Heritage Corridor,2024,2,23603.8,9
+Heritage Corridor,2024,1,23011.6,9
+Metra Electric District Main Line,2002,12,898017,5
+Metra Electric District Main Line,2002,11,958454,5
+Metra Electric District Main Line,2002,10,1012329,5
+Metra Electric District Main Line,2002,9,948201,5
+Metra Electric District Main Line,2002,8,949454,5
+Metra Electric District Main Line,2002,7,989038,5
+Metra Electric District Main Line,2002,6,961982,5
+Metra Electric District Main Line,2002,5,998258,5
+Metra Electric District Main Line,2002,4,977946,5
+Metra Electric District Main Line,2002,3,957711,5
+Metra Electric District Main Line,2002,2,946257,5
+Metra Electric District Main Line,2002,1,978784,5
+Metra Electric District Main Line,2003,12,855628,5
+Metra Electric District Main Line,2003,11,867074,5
+Metra Electric District Main Line,2003,10,941510,5
+Metra Electric District Main Line,2003,9,913081,5
+Metra Electric District Main Line,2003,8,862516,5
+Metra Electric District Main Line,2003,7,890633,5
+Metra Electric District Main Line,2003,6,965199,5
+Metra Electric District Main Line,2003,5,913699,5
+Metra Electric District Main Line,2003,4,918565,5
+Metra Electric District Main Line,2003,3,943792,5
+Metra Electric District Main Line,2003,2,890470,5
+Metra Electric District Main Line,2003,1,932114,5
+Metra Electric District Main Line,2004,12,835876,5
+Metra Electric District Main Line,2004,11,902786,5
+Metra Electric District Main Line,2004,10,872492,5
+Metra Electric District Main Line,2004,9,874835,5
+Metra Electric District Main Line,2004,8,860167,5
+Metra Electric District Main Line,2004,7,884727,5
+Metra Electric District Main Line,2004,6,912497,5
+Metra Electric District Main Line,2004,5,834599,5
+Metra Electric District Main Line,2004,4,856983,5
+Metra Electric District Main Line,2004,3,889809,5
+Metra Electric District Main Line,2004,2,839227,5
+Metra Electric District Main Line,2004,1,834706,5
+Metra Electric District Main Line,2005,12,857150,5
+Metra Electric District Main Line,2005,11,933660,5
+Metra Electric District Main Line,2005,10,906794,5
+Metra Electric District Main Line,2005,9,926560,5
+Metra Electric District Main Line,2005,8,905604,5
+Metra Electric District Main Line,2005,7,902837,5
+Metra Electric District Main Line,2005,6,974406,5
+Metra Electric District Main Line,2005,5,879082,5
+Metra Electric District Main Line,2005,4,862197,5
+Metra Electric District Main Line,2005,3,888730,5
+Metra Electric District Main Line,2005,2,840539,5
+Metra Electric District Main Line,2005,1,853146,5
+Metra Electric District Main Line,2006,12,903350,5
+Metra Electric District Main Line,2006,11,995960,5
+Metra Electric District Main Line,2006,10,1015068,5
+Metra Electric District Main Line,2006,9,969665,5
+Metra Electric District Main Line,2006,8,1011559,5
+Metra Electric District Main Line,2006,7,1015289,5
+Metra Electric District Main Line,2006,6,1012545,5
+Metra Electric District Main Line,2006,5,986671,5
+Metra Electric District Main Line,2006,4,919878,5
+Metra Electric District Main Line,2006,3,929907,5
+Metra Electric District Main Line,2006,2,852873,5
+Metra Electric District Main Line,2006,1,923924,5
+Metra Electric District Main Line,2007,12,880091,5
+Metra Electric District Main Line,2007,11,990239,5
+Metra Electric District Main Line,2007,10,1038137,5
+Metra Electric District Main Line,2007,9,959055,5
+Metra Electric District Main Line,2007,8,1015607,5
+Metra Electric District Main Line,2007,7,1051859,5
+Metra Electric District Main Line,2007,6,1003944,5
+Metra Electric District Main Line,2007,5,1010767,5
+Metra Electric District Main Line,2007,4,957525,5
+Metra Electric District Main Line,2007,3,971426,5
+Metra Electric District Main Line,2007,2,908348,5
+Metra Electric District Main Line,2007,1,934240,5
+Metra Electric District Main Line,2008,12,882130,5
+Metra Electric District Main Line,2008,11,899553,5
+Metra Electric District Main Line,2008,10,979917,5
+Metra Electric District Main Line,2008,9,952986,5
+Metra Electric District Main Line,2008,8,922539,5
+Metra Electric District Main Line,2008,7,1007414,5
+Metra Electric District Main Line,2008,6,958705,5
+Metra Electric District Main Line,2008,5,939910,5
+Metra Electric District Main Line,2008,4,929896,5
+Metra Electric District Main Line,2008,3,889360,5
+Metra Electric District Main Line,2008,2,915710,5
+Metra Electric District Main Line,2008,1,987589,5
+Metra Electric District Main Line,2009,12,819760,5
+Metra Electric District Main Line,2009,11,835887,5
+Metra Electric District Main Line,2009,10,903128,5
+Metra Electric District Main Line,2009,9,858322,5
+Metra Electric District Main Line,2009,8,838395,5
+Metra Electric District Main Line,2009,7,914849,5
+Metra Electric District Main Line,2009,6,901802,5
+Metra Electric District Main Line,2009,5,848786,5
+Metra Electric District Main Line,2009,4,865704,5
+Metra Electric District Main Line,2009,3,884911,5
+Metra Electric District Main Line,2009,2,879847,5
+Metra Electric District Main Line,2009,1,854564,5
+Metra Electric District Main Line,2010,12,785016,5
+Metra Electric District Main Line,2010,11,841354,5
+Metra Electric District Main Line,2010,10,893484,5
+Metra Electric District Main Line,2010,9,864459,5
+Metra Electric District Main Line,2010,8,832064,5
+Metra Electric District Main Line,2010,7,838197,5
+Metra Electric District Main Line,2010,6,853927,5
+Metra Electric District Main Line,2010,5,818044,5
+Metra Electric District Main Line,2010,4,828204,5
+Metra Electric District Main Line,2010,3,858580,5
+Metra Electric District Main Line,2010,2,805471,5
+Metra Electric District Main Line,2010,1,796276,5
+Metra Electric District Main Line,2011,12,795348,5
+Metra Electric District Main Line,2011,11,858689,5
+Metra Electric District Main Line,2011,10,874646,5
+Metra Electric District Main Line,2011,9,857849,5
+Metra Electric District Main Line,2011,8,863738,5
+Metra Electric District Main Line,2011,7,845843,5
+Metra Electric District Main Line,2011,6,865792,5
+Metra Electric District Main Line,2011,5,840203,5
+Metra Electric District Main Line,2011,4,814342,5
+Metra Electric District Main Line,2011,3,830755,5
+Metra Electric District Main Line,2011,2,785753,5
+Metra Electric District Main Line,2011,1,797601,5
+Metra Electric District Main Line,2012,12,727508,5
+Metra Electric District Main Line,2012,11,814585,5
+Metra Electric District Main Line,2012,10,849529,5
+Metra Electric District Main Line,2012,9,796903,5
+Metra Electric District Main Line,2012,8,809655,5
+Metra Electric District Main Line,2012,7,802604,5
+Metra Electric District Main Line,2012,6,814406,5
+Metra Electric District Main Line,2012,5,811551,5
+Metra Electric District Main Line,2012,4,811551,5
+Metra Electric District Main Line,2012,3,838757,5
+Metra Electric District Main Line,2012,2,782648,5
+Metra Electric District Main Line,2012,1,821230,5
+Metra Electric District Main Line,2013,12,746277,5
+Metra Electric District Main Line,2013,11,786396,5
+Metra Electric District Main Line,2013,10,845693,5
+Metra Electric District Main Line,2013,9,812686,5
+Metra Electric District Main Line,2013,8,808281,5
+Metra Electric District Main Line,2013,7,843539,5
+Metra Electric District Main Line,2013,6,811536,5
+Metra Electric District Main Line,2013,5,813783,5
+Metra Electric District Main Line,2013,4,798169,5
+Metra Electric District Main Line,2013,3,784086,5
+Metra Electric District Main Line,2013,2,751366,5
+Metra Electric District Main Line,2013,1,754408,5
+Metra Electric District Main Line,2014,12,752288,5
+Metra Electric District Main Line,2014,11,772579,5
+Metra Electric District Main Line,2014,10,836008,5
+Metra Electric District Main Line,2014,9,801331,5
+Metra Electric District Main Line,2014,8,774374,5
+Metra Electric District Main Line,2014,7,814513,5
+Metra Electric District Main Line,2014,6,802999,5
+Metra Electric District Main Line,2014,5,800817,5
+Metra Electric District Main Line,2014,4,791572,5
+Metra Electric District Main Line,2014,3,783530,5
+Metra Electric District Main Line,2014,2,749374,5
+Metra Electric District Main Line,2014,1,736540,5
+Metra Electric District Main Line,2015,12,708196.5,5
+Metra Electric District Main Line,2015,11,733641.5,5
+Metra Electric District Main Line,2015,10,802282,5
+Metra Electric District Main Line,2015,9,761423.5,5
+Metra Electric District Main Line,2015,8,746795.5,5
+Metra Electric District Main Line,2015,7,795378.5,5
+Metra Electric District Main Line,2015,6,779112,5
+Metra Electric District Main Line,2015,5,752418.5,5
+Metra Electric District Main Line,2015,4,745538.5,5
+Metra Electric District Main Line,2015,3,757570.5,5
+Metra Electric District Main Line,2015,2,714707,5
+Metra Electric District Main Line,2015,1,757585,5
+Metra Electric District Main Line,2016,12,648027.5,5
+Metra Electric District Main Line,2016,11,738071.5,5
+Metra Electric District Main Line,2016,10,738229.5,5
+Metra Electric District Main Line,2016,9,728946,5
+Metra Electric District Main Line,2016,8,712969,5
+Metra Electric District Main Line,2016,7,745802,5
+Metra Electric District Main Line,2016,6,742580,5
+Metra Electric District Main Line,2016,5,732417,5
+Metra Electric District Main Line,2016,4,713455.5,5
+Metra Electric District Main Line,2016,3,731698.5,5
+Metra Electric District Main Line,2016,2,698811,5
+Metra Electric District Main Line,2016,1,701801,5
+Metra Electric District Main Line,2017,12,618554.5,5
+Metra Electric District Main Line,2017,11,659889,5
+Metra Electric District Main Line,2017,10,692167.5,5
+Metra Electric District Main Line,2017,9,669397.5,5
+Metra Electric District Main Line,2017,8,695694.5,5
+Metra Electric District Main Line,2017,7,687090.5,5
+Metra Electric District Main Line,2017,6,702944,5
+Metra Electric District Main Line,2017,5,693893.5,5
+Metra Electric District Main Line,2017,4,669794.5,5
+Metra Electric District Main Line,2017,3,686454.5,5
+Metra Electric District Main Line,2017,2,646282,5
+Metra Electric District Main Line,2017,1,728436.5,5
+Metra Electric District Main Line,2018,12,584169.5,5
+Metra Electric District Main Line,2018,11,634669,5
+Metra Electric District Main Line,2018,10,689432,5
+Metra Electric District Main Line,2018,9,646778,5
+Metra Electric District Main Line,2018,8,655810.5,5
+Metra Electric District Main Line,2018,7,655079,5
+Metra Electric District Main Line,2018,6,652812,5
+Metra Electric District Main Line,2018,5,652667,5
+Metra Electric District Main Line,2018,4,638868.5,5
+Metra Electric District Main Line,2018,3,642132,5
+Metra Electric District Main Line,2018,2,598625.5,5
+Metra Electric District Main Line,2018,1,665077.5,5
+Metra Electric District Main Line,2019,12,559297.5,5
+Metra Electric District Main Line,2019,11,604565.5,5
+Metra Electric District Main Line,2019,10,668328,5
+Metra Electric District Main Line,2019,9,614006,5
+Metra Electric District Main Line,2019,8,617576,5
+Metra Electric District Main Line,2019,7,629757.5,5
+Metra Electric District Main Line,2019,6,620599.5,5
+Metra Electric District Main Line,2019,5,622363.5,5
+Metra Electric District Main Line,2019,4,619856,5
+Metra Electric District Main Line,2019,3,599900.5,5
+Metra Electric District Main Line,2019,2,541672.5,5
+Metra Electric District Main Line,2019,1,581285,5
+Metra Electric District Main Line,2020,12,68423.3,5
+Metra Electric District Main Line,2020,11,68148.9,5
+Metra Electric District Main Line,2020,10,83646.6,5
+Metra Electric District Main Line,2020,9,89250.4,5
+Metra Electric District Main Line,2020,8,76373.8,5
+Metra Electric District Main Line,2020,7,81128.9,5
+Metra Electric District Main Line,2020,6,56663.5,5
+Metra Electric District Main Line,2020,5,41895,5
+Metra Electric District Main Line,2020,4,35222,5
+Metra Electric District Main Line,2020,3,258913.3,5
+Metra Electric District Main Line,2020,2,581179,5
+Metra Electric District Main Line,2020,1,581348.5,5
+Metra Electric District Main Line,2021,12,179941,5
+Metra Electric District Main Line,2021,11,212956.7,5
+Metra Electric District Main Line,2021,10,239039.5,5
+Metra Electric District Main Line,2021,9,218844.4,5
+Metra Electric District Main Line,2021,8,188089.2,5
+Metra Electric District Main Line,2021,7,184198.8,5
+Metra Electric District Main Line,2021,6,149494.9,5
+Metra Electric District Main Line,2021,5,115982.5,5
+Metra Electric District Main Line,2021,4,103139.8,5
+Metra Electric District Main Line,2021,3,99978.4,5
+Metra Electric District Main Line,2021,2,71216.2,5
+Metra Electric District Main Line,2021,1,73841.8,5
+Metra Electric District Main Line,2022,12,256381.7,5
+Metra Electric District Main Line,2022,11,300911.2,5
+Metra Electric District Main Line,2022,10,344399.3,5
+Metra Electric District Main Line,2022,9,315809,5
+Metra Electric District Main Line,2022,8,294477.1,5
+Metra Electric District Main Line,2022,7,273710.3,5
+Metra Electric District Main Line,2022,6,264970.2,5
+Metra Electric District Main Line,2022,5,259553,5
+Metra Electric District Main Line,2022,4,249170.7,5
+Metra Electric District Main Line,2022,3,242825.7,5
+Metra Electric District Main Line,2022,2,180788.5,5
+Metra Electric District Main Line,2022,1,149518.8,5
+Metra Electric District Main Line,2023,12,259764.3,5
+Metra Electric District Main Line,2023,11,327674.3,5
+Metra Electric District Main Line,2023,10,392078.1,5
+Metra Electric District Main Line,2023,9,352874.4,5
+Metra Electric District Main Line,2023,8,346937.2,5
+Metra Electric District Main Line,2023,7,326617.5,5
+Metra Electric District Main Line,2023,6,346467,5
+Metra Electric District Main Line,2023,5,331292.7,5
+Metra Electric District Main Line,2023,4,305957.5,5
+Metra Electric District Main Line,2023,3,314332.2,5
+Metra Electric District Main Line,2023,2,268370.9,5
+Metra Electric District Main Line,2023,1,286144.9,5
+Metra Electric District Main Line,2024,11,292304.5,5
+Metra Electric District Main Line,2024,10,373170.1,5
+Metra Electric District Main Line,2024,9,339411.9,5
+Metra Electric District Main Line,2024,8,319781.4,5
+Metra Electric District Main Line,2024,7,317215.7,5
+Metra Electric District Main Line,2024,6,304026.4,5
+Metra Electric District Main Line,2024,5,342476.7,5
+Metra Electric District Main Line,2024,4,307838.8,5
+Metra Electric District Main Line,2024,3,278896.2,5
+Metra Electric District Main Line,2024,2,246214.1,5
+Metra Electric District Main Line,2024,1,376677.1,5
+Milwaukee District North Line,2002,12,490267,15
+Milwaukee District North Line,2002,11,507151,15
+Milwaukee District North Line,2002,10,556590,15
+Milwaukee District North Line,2002,9,529828,15
+Milwaukee District North Line,2002,8,522844,15
+Milwaukee District North Line,2002,7,578976,15
+Milwaukee District North Line,2002,6,517369,15
+Milwaukee District North Line,2002,5,590419,15
+Milwaukee District North Line,2002,4,554919,15
+Milwaukee District North Line,2002,3,525104,15
+Milwaukee District North Line,2002,2,515943,15
+Milwaukee District North Line,2002,1,557733,15
+Milwaukee District North Line,2003,12,484388,15
+Milwaukee District North Line,2003,11,486917,15
+Milwaukee District North Line,2003,10,528892,15
+Milwaukee District North Line,2003,9,511247,15
+Milwaukee District North Line,2003,8,499113,15
+Milwaukee District North Line,2003,7,526819,15
+Milwaukee District North Line,2003,6,506769,15
+Milwaukee District North Line,2003,5,479691,15
+Milwaukee District North Line,2003,4,481794,15
+Milwaukee District North Line,2003,3,489024,15
+Milwaukee District North Line,2003,2,470610,15
+Milwaukee District North Line,2003,1,500542,15
+Milwaukee District North Line,2004,12,478392,15
+Milwaukee District North Line,2004,11,526137,15
+Milwaukee District North Line,2004,10,514575,15
+Milwaukee District North Line,2004,9,509640,15
+Milwaukee District North Line,2004,8,525130,15
+Milwaukee District North Line,2004,7,518822,15
+Milwaukee District North Line,2004,6,533255,15
+Milwaukee District North Line,2004,5,479569,15
+Milwaukee District North Line,2004,4,485032,15
+Milwaukee District North Line,2004,3,494534,15
+Milwaukee District North Line,2004,2,471282,15
+Milwaukee District North Line,2004,1,483809,15
+Milwaukee District North Line,2005,12,528952,15
+Milwaukee District North Line,2005,11,567118,15
+Milwaukee District North Line,2005,10,566931,15
+Milwaukee District North Line,2005,9,561689,15
+Milwaukee District North Line,2005,8,548532,15
+Milwaukee District North Line,2005,7,532707,15
+Milwaukee District North Line,2005,6,546906,15
+Milwaukee District North Line,2005,5,506632,15
+Milwaukee District North Line,2005,4,492190,15
+Milwaukee District North Line,2005,3,495965,15
+Milwaukee District North Line,2005,2,480500,15
+Milwaukee District North Line,2005,1,496565,15
+Milwaukee District North Line,2006,12,508237,15
+Milwaukee District North Line,2006,11,571238,15
+Milwaukee District North Line,2006,10,582899,15
+Milwaukee District North Line,2006,9,560722,15
+Milwaukee District North Line,2006,8,588723,15
+Milwaukee District North Line,2006,7,589724,15
+Milwaukee District North Line,2006,6,568097,15
+Milwaukee District North Line,2006,5,547914,15
+Milwaukee District North Line,2006,4,505468,15
+Milwaukee District North Line,2006,3,531119,15
+Milwaukee District North Line,2006,2,480189,15
+Milwaukee District North Line,2006,1,565476,15
+Milwaukee District North Line,2007,12,549395,15
+Milwaukee District North Line,2007,11,607796,15
+Milwaukee District North Line,2007,10,671599,15
+Milwaukee District North Line,2007,9,584743,15
+Milwaukee District North Line,2007,8,607753,15
+Milwaukee District North Line,2007,7,632082,15
+Milwaukee District North Line,2007,6,609305,15
+Milwaukee District North Line,2007,5,585014,15
+Milwaukee District North Line,2007,4,551516,15
+Milwaukee District North Line,2007,3,550730,15
+Milwaukee District North Line,2007,2,516777,15
+Milwaukee District North Line,2007,1,545840,15
+Milwaukee District North Line,2008,12,597834,15
+Milwaukee District North Line,2008,11,613610,15
+Milwaukee District North Line,2008,10,677577,15
+Milwaukee District North Line,2008,9,671511,15
+Milwaukee District North Line,2008,8,682029,15
+Milwaukee District North Line,2008,7,752063,15
+Milwaukee District North Line,2008,6,718614,15
+Milwaukee District North Line,2008,5,660836,15
+Milwaukee District North Line,2008,4,628971,15
+Milwaukee District North Line,2008,3,548981,15
+Milwaukee District North Line,2008,2,526739,15
+Milwaukee District North Line,2008,1,695072,15
+Milwaukee District North Line,2009,12,552333,15
+Milwaukee District North Line,2009,11,585169,15
+Milwaukee District North Line,2009,10,599343,15
+Milwaukee District North Line,2009,9,601353,15
+Milwaukee District North Line,2009,8,612865,15
+Milwaukee District North Line,2009,7,660574,15
+Milwaukee District North Line,2009,6,634604,15
+Milwaukee District North Line,2009,5,563391,15
+Milwaukee District North Line,2009,4,578962,15
+Milwaukee District North Line,2009,3,594699,15
+Milwaukee District North Line,2009,2,566975,15
+Milwaukee District North Line,2009,1,594561,15
+Milwaukee District North Line,2010,12,532585,15
+Milwaukee District North Line,2010,11,577414,15
+Milwaukee District North Line,2010,10,589293,15
+Milwaukee District North Line,2010,9,586971,15
+Milwaukee District North Line,2010,8,610971,15
+Milwaukee District North Line,2010,7,604190,15
+Milwaukee District North Line,2010,6,615466,15
+Milwaukee District North Line,2010,5,548837,15
+Milwaukee District North Line,2010,4,559608,15
+Milwaukee District North Line,2010,3,569093,15
+Milwaukee District North Line,2010,2,531949,15
+Milwaukee District North Line,2010,1,556851,15
+Milwaukee District North Line,2011,12,537410,15
+Milwaukee District North Line,2011,11,595765,15
+Milwaukee District North Line,2011,10,604481,15
+Milwaukee District North Line,2011,9,590627,15
+Milwaukee District North Line,2011,8,634405,15
+Milwaukee District North Line,2011,7,604105,15
+Milwaukee District North Line,2011,6,651274,15
+Milwaukee District North Line,2011,5,591776,15
+Milwaukee District North Line,2011,4,559574,15
+Milwaukee District North Line,2011,3,570871,15
+Milwaukee District North Line,2011,2,512396,15
+Milwaukee District North Line,2011,1,555962,15
+Milwaukee District North Line,2012,12,523737,15
+Milwaukee District North Line,2012,11,575488,15
+Milwaukee District North Line,2012,10,604732,15
+Milwaukee District North Line,2012,9,567990,15
+Milwaukee District North Line,2012,8,607652,15
+Milwaukee District North Line,2012,7,603171,15
+Milwaukee District North Line,2012,6,605886,15
+Milwaukee District North Line,2012,5,573723,15
+Milwaukee District North Line,2012,4,573723,15
+Milwaukee District North Line,2012,3,577887,15
+Milwaukee District North Line,2012,2,529092,15
+Milwaukee District North Line,2012,1,559655,15
+Milwaukee District North Line,2013,12,564803,15
+Milwaukee District North Line,2013,11,574933,15
+Milwaukee District North Line,2013,10,615684,15
+Milwaukee District North Line,2013,9,599264,15
+Milwaukee District North Line,2013,8,621698,15
+Milwaukee District North Line,2013,7,646101,15
+Milwaukee District North Line,2013,6,613706,15
+Milwaukee District North Line,2013,5,588045,15
+Milwaukee District North Line,2013,4,573419,15
+Milwaukee District North Line,2013,3,565943,15
+Milwaukee District North Line,2013,2,536120,15
+Milwaukee District North Line,2013,1,541131,15
+Milwaukee District North Line,2014,12,593807,15
+Milwaukee District North Line,2014,11,593097,15
+Milwaukee District North Line,2014,10,631819,15
+Milwaukee District North Line,2014,9,621609,15
+Milwaukee District North Line,2014,8,630471,15
+Milwaukee District North Line,2014,7,658547,15
+Milwaukee District North Line,2014,6,644964,15
+Milwaukee District North Line,2014,5,594444,15
+Milwaukee District North Line,2014,4,585049,15
+Milwaukee District North Line,2014,3,584962,15
+Milwaukee District North Line,2014,2,547166,15
+Milwaukee District North Line,2014,1,551982,15
+Milwaukee District North Line,2015,12,548962.5,15
+Milwaukee District North Line,2015,11,569401,15
+Milwaukee District North Line,2015,10,595704.5,15
+Milwaukee District North Line,2015,9,595698.5,15
+Milwaukee District North Line,2015,8,618701,15
+Milwaukee District North Line,2015,7,648138,15
+Milwaukee District North Line,2015,6,642753,15
+Milwaukee District North Line,2015,5,576563,15
+Milwaukee District North Line,2015,4,567850.5,15
+Milwaukee District North Line,2015,3,583488,15
+Milwaukee District North Line,2015,2,544219.5,15
+Milwaukee District North Line,2015,1,603084,15
+Milwaukee District North Line,2016,12,536557,15
+Milwaukee District North Line,2016,11,603232,15
+Milwaukee District North Line,2016,10,586956,15
+Milwaukee District North Line,2016,9,577051.5,15
+Milwaukee District North Line,2016,8,598945.5,15
+Milwaukee District North Line,2016,7,623136.5,15
+Milwaukee District North Line,2016,6,615252.5,15
+Milwaukee District North Line,2016,5,573068,15
+Milwaukee District North Line,2016,4,550246.5,15
+Milwaukee District North Line,2016,3,567253.5,15
+Milwaukee District North Line,2016,2,539142.5,15
+Milwaukee District North Line,2016,1,559928,15
+Milwaukee District North Line,2017,12,519900,15
+Milwaukee District North Line,2017,11,566577,15
+Milwaukee District North Line,2017,10,585182.5,15
+Milwaukee District North Line,2017,9,569503,15
+Milwaukee District North Line,2017,8,623974,15
+Milwaukee District North Line,2017,7,598707,15
+Milwaukee District North Line,2017,6,612023,15
+Milwaukee District North Line,2017,5,573378.5,15
+Milwaukee District North Line,2017,4,531317,15
+Milwaukee District North Line,2017,3,550104.5,15
+Milwaukee District North Line,2017,2,504866,15
+Milwaukee District North Line,2017,1,584090.5,15
+Milwaukee District North Line,2018,12,504880,15
+Milwaukee District North Line,2018,11,552143,15
+Milwaukee District North Line,2018,10,584238.5,15
+Milwaukee District North Line,2018,9,548299,15
+Milwaukee District North Line,2018,8,592006,15
+Milwaukee District North Line,2018,7,585896.5,15
+Milwaukee District North Line,2018,6,579431,15
+Milwaukee District North Line,2018,5,556104.5,15
+Milwaukee District North Line,2018,4,515354,15
+Milwaukee District North Line,2018,3,526836.5,15
+Milwaukee District North Line,2018,2,471344,15
+Milwaukee District North Line,2018,1,593526,15
+Milwaukee District North Line,2019,12,513935.5,15
+Milwaukee District North Line,2019,11,527529.5,15
+Milwaukee District North Line,2019,10,573116,15
+Milwaukee District North Line,2019,9,554208.5,15
+Milwaukee District North Line,2019,8,582224.5,15
+Milwaukee District North Line,2019,7,586636,15
+Milwaukee District North Line,2019,6,576331,15
+Milwaukee District North Line,2019,5,558695,15
+Milwaukee District North Line,2019,4,537901,15
+Milwaukee District North Line,2019,3,526553,15
+Milwaukee District North Line,2019,2,498435,15
+Milwaukee District North Line,2019,1,513273,15
+Milwaukee District North Line,2020,12,35538.1,15
+Milwaukee District North Line,2020,11,35096.7,15
+Milwaukee District North Line,2020,10,45247,15
+Milwaukee District North Line,2020,9,47620.4,15
+Milwaukee District North Line,2020,8,44972,15
+Milwaukee District North Line,2020,7,48478.8,15
+Milwaukee District North Line,2020,6,38222.5,15
+Milwaukee District North Line,2020,5,15058,15
+Milwaukee District North Line,2020,4,10883,15
+Milwaukee District North Line,2020,3,214236.7,15
+Milwaukee District North Line,2020,2,502566,15
+Milwaukee District North Line,2020,1,519240.5,15
+Milwaukee District North Line,2021,12,111509.9,15
+Milwaukee District North Line,2021,11,125777.1,15
+Milwaukee District North Line,2021,10,126807.1,15
+Milwaukee District North Line,2021,9,117762.3,15
+Milwaukee District North Line,2021,8,124759.6,15
+Milwaukee District North Line,2021,7,138410.6,15
+Milwaukee District North Line,2021,6,109158.8,15
+Milwaukee District North Line,2021,5,69759.2,15
+Milwaukee District North Line,2021,4,52576.3,15
+Milwaukee District North Line,2021,3,49092.4,15
+Milwaukee District North Line,2021,2,34746.9,15
+Milwaukee District North Line,2021,1,33932.3,15
+Milwaukee District North Line,2022,12,155550.6,15
+Milwaukee District North Line,2022,11,182439.2,15
+Milwaukee District North Line,2022,10,193915.3,15
+Milwaukee District North Line,2022,9,190789.8,15
+Milwaukee District North Line,2022,8,197313.9,15
+Milwaukee District North Line,2022,7,188447.6,15
+Milwaukee District North Line,2022,6,182780.5,15
+Milwaukee District North Line,2022,5,156034.1,15
+Milwaukee District North Line,2022,4,141984.7,15
+Milwaukee District North Line,2022,3,144460.2,15
+Milwaukee District North Line,2022,2,95187.5,15
+Milwaukee District North Line,2022,1,76569.3,15
+Milwaukee District North Line,2023,12,210691.4,15
+Milwaukee District North Line,2023,11,252475.4,15
+Milwaukee District North Line,2023,10,275207.6,15
+Milwaukee District North Line,2023,9,254894.5,15
+Milwaukee District North Line,2023,8,289248.2,15
+Milwaukee District North Line,2023,7,255515.4,15
+Milwaukee District North Line,2023,6,266268,15
+Milwaukee District North Line,2023,5,249435.2,15
+Milwaukee District North Line,2023,4,212918,15
+Milwaukee District North Line,2023,3,216812,15
+Milwaukee District North Line,2023,2,169740.6,15
+Milwaukee District North Line,2023,1,188148.5,15
+Milwaukee District North Line,2024,11,254020,15
+Milwaukee District North Line,2024,10,310860.6,15
+Milwaukee District North Line,2024,9,275373.9,15
+Milwaukee District North Line,2024,8,275627.4,15
+Milwaukee District North Line,2024,7,301252.2,15
+Milwaukee District North Line,2024,6,275698.6,15
+Milwaukee District North Line,2024,5,277242,15
+Milwaukee District North Line,2024,4,262565.4,15
+Milwaukee District North Line,2024,3,240654.6,15
+Milwaukee District North Line,2024,2,225760.4,15
+Milwaukee District North Line,2024,1,220999.3,15
+Milwaukee District West Line,2002,12,472905,12
+Milwaukee District West Line,2002,11,489557,12
+Milwaukee District West Line,2002,10,527755,12
+Milwaukee District West Line,2002,9,517559,12
+Milwaukee District West Line,2002,8,513191,12
+Milwaukee District West Line,2002,7,556833,12
+Milwaukee District West Line,2002,6,505845,12
+Milwaukee District West Line,2002,5,558151,12
+Milwaukee District West Line,2002,4,526636,12
+Milwaukee District West Line,2002,3,515282,12
+Milwaukee District West Line,2002,2,502634,12
+Milwaukee District West Line,2002,1,535804,12
+Milwaukee District West Line,2003,12,465283,12
+Milwaukee District West Line,2003,11,470132,12
+Milwaukee District West Line,2003,10,506559,12
+Milwaukee District West Line,2003,9,497001,12
+Milwaukee District West Line,2003,8,497269,12
+Milwaukee District West Line,2003,7,537234,12
+Milwaukee District West Line,2003,6,499885,12
+Milwaukee District West Line,2003,5,469172,12
+Milwaukee District West Line,2003,4,487637,12
+Milwaukee District West Line,2003,3,488730,12
+Milwaukee District West Line,2003,2,464695,12
+Milwaukee District West Line,2003,1,484195,12
+Milwaukee District West Line,2004,12,452604,12
+Milwaukee District West Line,2004,11,481335,12
+Milwaukee District West Line,2004,10,487100,12
+Milwaukee District West Line,2004,9,485484,12
+Milwaukee District West Line,2004,8,493820,12
+Milwaukee District West Line,2004,7,502533,12
+Milwaukee District West Line,2004,6,498460,12
+Milwaukee District West Line,2004,5,456210,12
+Milwaukee District West Line,2004,4,466611,12
+Milwaukee District West Line,2004,3,480087,12
+Milwaukee District West Line,2004,2,456804,12
+Milwaukee District West Line,2004,1,461281,12
+Milwaukee District West Line,2005,12,467082,12
+Milwaukee District West Line,2005,11,504138,12
+Milwaukee District West Line,2005,10,512673,12
+Milwaukee District West Line,2005,9,516734,12
+Milwaukee District West Line,2005,8,510732,12
+Milwaukee District West Line,2005,7,521775,12
+Milwaukee District West Line,2005,6,515250,12
+Milwaukee District West Line,2005,5,480192,12
+Milwaukee District West Line,2005,4,476528,12
+Milwaukee District West Line,2005,3,476549,12
+Milwaukee District West Line,2005,2,453293,12
+Milwaukee District West Line,2005,1,472882,12
+Milwaukee District West Line,2006,12,478808,12
+Milwaukee District West Line,2006,11,530902,12
+Milwaukee District West Line,2006,10,546725,12
+Milwaukee District West Line,2006,9,529516,12
+Milwaukee District West Line,2006,8,573871,12
+Milwaukee District West Line,2006,7,565632,12
+Milwaukee District West Line,2006,6,529422,12
+Milwaukee District West Line,2006,5,519899,12
+Milwaukee District West Line,2006,4,495668,12
+Milwaukee District West Line,2006,3,507329,12
+Milwaukee District West Line,2006,2,463594,12
+Milwaukee District West Line,2006,1,517759,12
+Milwaukee District West Line,2007,12,508642,12
+Milwaukee District West Line,2007,11,554832,12
+Milwaukee District West Line,2007,10,589023,12
+Milwaukee District West Line,2007,9,556405,12
+Milwaukee District West Line,2007,8,566157,12
+Milwaukee District West Line,2007,7,600704,12
+Milwaukee District West Line,2007,6,563813,12
+Milwaukee District West Line,2007,5,539219,12
+Milwaukee District West Line,2007,4,522565,12
+Milwaukee District West Line,2007,3,525129,12
+Milwaukee District West Line,2007,2,488295,12
+Milwaukee District West Line,2007,1,503819,12
+Milwaukee District West Line,2008,12,529982,12
+Milwaukee District West Line,2008,11,560173,12
+Milwaukee District West Line,2008,10,606203,12
+Milwaukee District West Line,2008,9,603570,12
+Milwaukee District West Line,2008,8,609431,12
+Milwaukee District West Line,2008,7,655823,12
+Milwaukee District West Line,2008,6,614678,12
+Milwaukee District West Line,2008,5,570407,12
+Milwaukee District West Line,2008,4,547616,12
+Milwaukee District West Line,2008,3,513219,12
+Milwaukee District West Line,2008,2,500741,12
+Milwaukee District West Line,2008,1,589827,12
+Milwaukee District West Line,2009,12,513997,12
+Milwaukee District West Line,2009,11,540942,12
+Milwaukee District West Line,2009,10,558344,12
+Milwaukee District West Line,2009,9,563515,12
+Milwaukee District West Line,2009,8,577189,12
+Milwaukee District West Line,2009,7,617950,12
+Milwaukee District West Line,2009,6,585550,12
+Milwaukee District West Line,2009,5,528383,12
+Milwaukee District West Line,2009,4,539417,12
+Milwaukee District West Line,2009,3,542013,12
+Milwaukee District West Line,2009,2,521355,12
+Milwaukee District West Line,2009,1,542266,12
+Milwaukee District West Line,2010,12,526687,12
+Milwaukee District West Line,2010,11,571446,12
+Milwaukee District West Line,2010,10,574950,12
+Milwaukee District West Line,2010,9,577592,12
+Milwaukee District West Line,2010,8,604497,12
+Milwaukee District West Line,2010,7,599447,12
+Milwaukee District West Line,2010,6,607797,12
+Milwaukee District West Line,2010,5,547029,12
+Milwaukee District West Line,2010,4,544272,12
+Milwaukee District West Line,2010,3,548955,12
+Milwaukee District West Line,2010,2,501270,12
+Milwaukee District West Line,2010,1,511891,12
+Milwaukee District West Line,2011,12,533715,12
+Milwaukee District West Line,2011,11,581041,12
+Milwaukee District West Line,2011,10,605190,12
+Milwaukee District West Line,2011,9,591329,12
+Milwaukee District West Line,2011,8,647751,12
+Milwaukee District West Line,2011,7,626644,12
+Milwaukee District West Line,2011,6,644467,12
+Milwaukee District West Line,2011,5,577610,12
+Milwaukee District West Line,2011,4,587412,12
+Milwaukee District West Line,2011,3,576550,12
+Milwaukee District West Line,2011,2,520708,12
+Milwaukee District West Line,2011,1,554179,12
+Milwaukee District West Line,2012,12,513037,12
+Milwaukee District West Line,2012,11,562435,12
+Milwaukee District West Line,2012,10,595747,12
+Milwaukee District West Line,2012,9,611674,12
+Milwaukee District West Line,2012,8,602206,12
+Milwaukee District West Line,2012,7,594788,12
+Milwaukee District West Line,2012,6,590662,12
+Milwaukee District West Line,2012,5,561302,12
+Milwaukee District West Line,2012,4,561302,12
+Milwaukee District West Line,2012,3,578348,12
+Milwaukee District West Line,2012,2,530392,12
+Milwaukee District West Line,2012,1,554149,12
+Milwaukee District West Line,2013,12,534189,12
+Milwaukee District West Line,2013,11,559222,12
+Milwaukee District West Line,2013,10,591707,12
+Milwaukee District West Line,2013,9,581973,12
+Milwaukee District West Line,2013,8,603022,12
+Milwaukee District West Line,2013,7,618997,12
+Milwaukee District West Line,2013,6,591666,12
+Milwaukee District West Line,2013,5,571664,12
+Milwaukee District West Line,2013,4,567803,12
+Milwaukee District West Line,2013,3,557866,12
+Milwaukee District West Line,2013,2,524757,12
+Milwaukee District West Line,2013,1,527819,12
+Milwaukee District West Line,2014,12,561561,12
+Milwaukee District West Line,2014,11,562253,12
+Milwaukee District West Line,2014,10,602182,12
+Milwaukee District West Line,2014,9,598330,12
+Milwaukee District West Line,2014,8,605395,12
+Milwaukee District West Line,2014,7,630072,12
+Milwaukee District West Line,2014,6,611317,12
+Milwaukee District West Line,2014,5,573966,12
+Milwaukee District West Line,2014,4,577293,12
+Milwaukee District West Line,2014,3,566768,12
+Milwaukee District West Line,2014,2,530001,12
+Milwaukee District West Line,2014,1,527132,12
+Milwaukee District West Line,2015,12,526668.5,12
+Milwaukee District West Line,2015,11,552291,12
+Milwaukee District West Line,2015,10,574528.5,12
+Milwaukee District West Line,2015,9,577756,12
+Milwaukee District West Line,2015,8,600123,12
+Milwaukee District West Line,2015,7,617390,12
+Milwaukee District West Line,2015,6,602077,12
+Milwaukee District West Line,2015,5,548972,12
+Milwaukee District West Line,2015,4,553589,12
+Milwaukee District West Line,2015,3,560551,12
+Milwaukee District West Line,2015,2,510677.5,12
+Milwaukee District West Line,2015,1,547013,12
+Milwaukee District West Line,2016,12,496473.5,12
+Milwaukee District West Line,2016,11,577775,12
+Milwaukee District West Line,2016,10,557212.5,12
+Milwaukee District West Line,2016,9,558793,12
+Milwaukee District West Line,2016,8,561639,12
+Milwaukee District West Line,2016,7,587670.5,12
+Milwaukee District West Line,2016,6,580710,12
+Milwaukee District West Line,2016,5,546004,12
+Milwaukee District West Line,2016,4,537624.5,12
+Milwaukee District West Line,2016,3,554583.5,12
+Milwaukee District West Line,2016,2,521075.5,12
+Milwaukee District West Line,2016,1,532534,12
+Milwaukee District West Line,2017,12,478323,12
+Milwaukee District West Line,2017,11,519445,12
+Milwaukee District West Line,2017,10,547290.5,12
+Milwaukee District West Line,2017,9,530068,12
+Milwaukee District West Line,2017,8,567160,12
+Milwaukee District West Line,2017,7,552922.5,12
+Milwaukee District West Line,2017,6,554531.5,12
+Milwaukee District West Line,2017,5,531198,12
+Milwaukee District West Line,2017,4,515201.5,12
+Milwaukee District West Line,2017,3,528376.5,12
+Milwaukee District West Line,2017,2,488571,12
+Milwaukee District West Line,2017,1,536752.5,12
+Milwaukee District West Line,2018,12,459409.5,12
+Milwaukee District West Line,2018,11,503647.5,12
+Milwaukee District West Line,2018,10,536674,12
+Milwaukee District West Line,2018,9,517055,12
+Milwaukee District West Line,2018,8,549545.5,12
+Milwaukee District West Line,2018,7,541466,12
+Milwaukee District West Line,2018,6,527867.5,12
+Milwaukee District West Line,2018,5,515011.5,12
+Milwaukee District West Line,2018,4,502561,12
+Milwaukee District West Line,2018,3,508545,12
+Milwaukee District West Line,2018,2,456447.5,12
+Milwaukee District West Line,2018,1,525766,12
+Milwaukee District West Line,2019,12,458339.5,12
+Milwaukee District West Line,2019,11,478629.5,12
+Milwaukee District West Line,2019,10,514213.5,12
+Milwaukee District West Line,2019,9,499895,12
+Milwaukee District West Line,2019,8,520173,12
+Milwaukee District West Line,2019,7,522891,12
+Milwaukee District West Line,2019,6,503617,12
+Milwaukee District West Line,2019,5,490920,12
+Milwaukee District West Line,2019,4,500092.5,12
+Milwaukee District West Line,2019,3,492922.5,12
+Milwaukee District West Line,2019,2,460715,12
+Milwaukee District West Line,2019,1,462209,12
+Milwaukee District West Line,2020,12,39586.3,12
+Milwaukee District West Line,2020,11,38916,12
+Milwaukee District West Line,2020,10,49156.3,12
+Milwaukee District West Line,2020,9,51357.3,12
+Milwaukee District West Line,2020,8,50171.9,12
+Milwaukee District West Line,2020,7,52742.5,12
+Milwaukee District West Line,2020,6,41033.1,12
+Milwaukee District West Line,2020,5,20704,12
+Milwaukee District West Line,2020,4,16678,12
+Milwaukee District West Line,2020,3,198667.3,12
+Milwaukee District West Line,2020,2,457686,12
+Milwaukee District West Line,2020,1,464578,12
+Milwaukee District West Line,2021,12,105987.6,12
+Milwaukee District West Line,2021,11,122088.1,12
+Milwaukee District West Line,2021,10,123171.2,12
+Milwaukee District West Line,2021,9,119584.8,12
+Milwaukee District West Line,2021,8,118969.3,12
+Milwaukee District West Line,2021,7,121300.1,12
+Milwaukee District West Line,2021,6,94424.3,12
+Milwaukee District West Line,2021,5,68345.5,12
+Milwaukee District West Line,2021,4,54774.6,12
+Milwaukee District West Line,2021,3,54683.2,12
+Milwaukee District West Line,2021,2,37927.5,12
+Milwaukee District West Line,2021,1,38485.7,12
+Milwaukee District West Line,2022,12,133968.6,12
+Milwaukee District West Line,2022,11,161515.8,12
+Milwaukee District West Line,2022,10,170916.3,12
+Milwaukee District West Line,2022,9,175599.6,12
+Milwaukee District West Line,2022,8,175315.4,12
+Milwaukee District West Line,2022,7,165296.7,12
+Milwaukee District West Line,2022,6,157633.3,12
+Milwaukee District West Line,2022,5,142540.5,12
+Milwaukee District West Line,2022,4,134006.8,12
+Milwaukee District West Line,2022,3,138562.9,12
+Milwaukee District West Line,2022,2,93515.9,12
+Milwaukee District West Line,2022,1,75563.9,12
+Milwaukee District West Line,2023,12,167807.9,12
+Milwaukee District West Line,2023,11,204984.7,12
+Milwaukee District West Line,2023,10,222053,12
+Milwaukee District West Line,2023,9,212124.6,12
+Milwaukee District West Line,2023,8,229600.7,12
+Milwaukee District West Line,2023,7,199478.8,12
+Milwaukee District West Line,2023,6,199787,12
+Milwaukee District West Line,2023,5,195736.7,12
+Milwaukee District West Line,2023,4,173499,12
+Milwaukee District West Line,2023,3,187572.3,12
+Milwaukee District West Line,2023,2,150826.1,12
+Milwaukee District West Line,2023,1,159020.4,12
+Milwaukee District West Line,2024,11,203278.3,12
+Milwaukee District West Line,2024,10,251677.8,12
+Milwaukee District West Line,2024,9,232243.2,12
+Milwaukee District West Line,2024,8,220909.8,12
+Milwaukee District West Line,2024,7,236076.8,12
+Milwaukee District West Line,2024,6,208069.9,12
+Milwaukee District West Line,2024,5,215014.5,12
+Milwaukee District West Line,2024,4,212944.6,12
+Milwaukee District West Line,2024,3,202049.6,12
+Milwaukee District West Line,2024,2,190367.2,12
+Milwaukee District West Line,2024,1,179497.2,12
+North Central Service,2002,12,73907,16
+North Central Service,2002,11,83650,16
+North Central Service,2002,10,87127,16
+North Central Service,2002,9,85943,16
+North Central Service,2002,8,88196,16
+North Central Service,2002,7,78627,16
+North Central Service,2002,6,69414,16
+North Central Service,2002,5,77840,16
+North Central Service,2002,4,72998,16
+North Central Service,2002,3,78846,16
+North Central Service,2002,2,77610,16
+North Central Service,2002,1,77667,16
+North Central Service,2003,12,90681,16
+North Central Service,2003,11,99961,16
+North Central Service,2003,10,106616,16
+North Central Service,2003,9,106646,16
+North Central Service,2003,8,101072,16
+North Central Service,2003,7,100392,16
+North Central Service,2003,6,104402,16
+North Central Service,2003,5,98277,16
+North Central Service,2003,4,91016,16
+North Central Service,2003,3,89923,16
+North Central Service,2003,2,83292,16
+North Central Service,2003,1,84008,16
+North Central Service,2004,12,89603,16
+North Central Service,2004,11,98822,16
+North Central Service,2004,10,101573,16
+North Central Service,2004,9,99708,16
+North Central Service,2004,8,96834,16
+North Central Service,2004,7,97553,16
+North Central Service,2004,6,101935,16
+North Central Service,2004,5,93627,16
+North Central Service,2004,4,100726,16
+North Central Service,2004,3,98758,16
+North Central Service,2004,2,96090,16
+North Central Service,2004,1,98213,16
+North Central Service,2005,12,83711,16
+North Central Service,2005,11,89284,16
+North Central Service,2005,10,92548,16
+North Central Service,2005,9,102765,16
+North Central Service,2005,8,102285,16
+North Central Service,2005,7,92964,16
+North Central Service,2005,6,100492,16
+North Central Service,2005,5,93124,16
+North Central Service,2005,4,97148,16
+North Central Service,2005,3,98418,16
+North Central Service,2005,2,95465,16
+North Central Service,2005,1,100730,16
+North Central Service,2006,12,98910,16
+North Central Service,2006,11,109545,16
+North Central Service,2006,10,112096,16
+North Central Service,2006,9,108492,16
+North Central Service,2006,8,111415,16
+North Central Service,2006,7,104812,16
+North Central Service,2006,6,109441,16
+North Central Service,2006,5,104260,16
+North Central Service,2006,4,96210,16
+North Central Service,2006,3,99585,16
+North Central Service,2006,2,91234,16
+North Central Service,2006,1,99368,16
+North Central Service,2007,12,110371,16
+North Central Service,2007,11,123341,16
+North Central Service,2007,10,135819,16
+North Central Service,2007,9,120173,16
+North Central Service,2007,8,124934,16
+North Central Service,2007,7,125141,16
+North Central Service,2007,6,118683,16
+North Central Service,2007,5,118505,16
+North Central Service,2007,4,114113,16
+North Central Service,2007,3,112865,16
+North Central Service,2007,2,105542,16
+North Central Service,2007,1,108350,16
+North Central Service,2008,12,130325,16
+North Central Service,2008,11,136218,16
+North Central Service,2008,10,148354,16
+North Central Service,2008,9,141755,16
+North Central Service,2008,8,138393,16
+North Central Service,2008,7,145275,16
+North Central Service,2008,6,136363,16
+North Central Service,2008,5,134850,16
+North Central Service,2008,4,128854,16
+North Central Service,2008,3,118372,16
+North Central Service,2008,2,112943,16
+North Central Service,2008,1,138321,16
+North Central Service,2009,12,125699,16
+North Central Service,2009,11,130575,16
+North Central Service,2009,10,137716,16
+North Central Service,2009,9,139447,16
+North Central Service,2009,8,135959,16
+North Central Service,2009,7,137300,16
+North Central Service,2009,6,140493,16
+North Central Service,2009,5,133636,16
+North Central Service,2009,4,135668,16
+North Central Service,2009,3,136798,16
+North Central Service,2009,2,130269,16
+North Central Service,2009,1,134258,16
+North Central Service,2010,12,121205,16
+North Central Service,2010,11,135582,16
+North Central Service,2010,10,137662,16
+North Central Service,2010,9,136010,16
+North Central Service,2010,8,138100,16
+North Central Service,2010,7,132876,16
+North Central Service,2010,6,137081,16
+North Central Service,2010,5,128329,16
+North Central Service,2010,4,130019,16
+North Central Service,2010,3,132709,16
+North Central Service,2010,2,125452,16
+North Central Service,2010,1,130294,16
+North Central Service,2011,12,132158,16
+North Central Service,2011,11,149502,16
+North Central Service,2011,10,152679,16
+North Central Service,2011,9,149426,16
+North Central Service,2011,8,155052,16
+North Central Service,2011,7,144127,16
+North Central Service,2011,6,145200,16
+North Central Service,2011,5,135583,16
+North Central Service,2011,4,135924,16
+North Central Service,2011,3,134439,16
+North Central Service,2011,2,124662,16
+North Central Service,2011,1,126936,16
+North Central Service,2012,12,119074,16
+North Central Service,2012,11,141050,16
+North Central Service,2012,10,148780,16
+North Central Service,2012,9,140956,16
+North Central Service,2012,8,145424,16
+North Central Service,2012,7,144160,16
+North Central Service,2012,6,146039,16
+North Central Service,2012,5,143545,16
+North Central Service,2012,4,143545,16
+North Central Service,2012,3,143177,16
+North Central Service,2012,2,135981,16
+North Central Service,2012,1,142386,16
+North Central Service,2013,12,129984,16
+North Central Service,2013,11,141949,16
+North Central Service,2013,10,150251,16
+North Central Service,2013,9,143986,16
+North Central Service,2013,8,145290,16
+North Central Service,2013,7,146981,16
+North Central Service,2013,6,142398,16
+North Central Service,2013,5,141095,16
+North Central Service,2013,4,140296,16
+North Central Service,2013,3,137930,16
+North Central Service,2013,2,132824,16
+North Central Service,2013,1,131602,16
+North Central Service,2014,12,139812,16
+North Central Service,2014,11,145821,16
+North Central Service,2014,10,160372,16
+North Central Service,2014,9,156516,16
+North Central Service,2014,8,156020,16
+North Central Service,2014,7,163190,16
+North Central Service,2014,6,160488,16
+North Central Service,2014,5,156714,16
+North Central Service,2014,4,157168,16
+North Central Service,2014,3,149133,16
+North Central Service,2014,2,137868,16
+North Central Service,2014,1,134233,16
+North Central Service,2015,12,135517.5,16
+North Central Service,2015,11,143028,16
+North Central Service,2015,10,151390,16
+North Central Service,2015,9,149784.5,16
+North Central Service,2015,8,150869,16
+North Central Service,2015,7,155471,16
+North Central Service,2015,6,155447,16
+North Central Service,2015,5,141955,16
+North Central Service,2015,4,146293,16
+North Central Service,2015,3,144590,16
+North Central Service,2015,2,137441,16
+North Central Service,2015,1,146332,16
+North Central Service,2016,12,129349.5,16
+North Central Service,2016,11,149958,16
+North Central Service,2016,10,144464.5,16
+North Central Service,2016,9,146288.5,16
+North Central Service,2016,8,147258.5,16
+North Central Service,2016,7,150890,16
+North Central Service,2016,6,152287,16
+North Central Service,2016,5,141951.5,16
+North Central Service,2016,4,141026,16
+North Central Service,2016,3,144926,16
+North Central Service,2016,2,138772,16
+North Central Service,2016,1,142901,16
+North Central Service,2017,12,127888.5,16
+North Central Service,2017,11,140562,16
+North Central Service,2017,10,148237.5,16
+North Central Service,2017,9,138489,16
+North Central Service,2017,8,150303.5,16
+North Central Service,2017,7,141369,16
+North Central Service,2017,6,149794,16
+North Central Service,2017,5,139945,16
+North Central Service,2017,4,133952.5,16
+North Central Service,2017,3,138406.5,16
+North Central Service,2017,2,128235,16
+North Central Service,2017,1,147213,16
+North Central Service,2018,12,118661,16
+North Central Service,2018,11,134792,16
+North Central Service,2018,10,146520.5,16
+North Central Service,2018,9,136409,16
+North Central Service,2018,8,143196.5,16
+North Central Service,2018,7,139851.5,16
+North Central Service,2018,6,141742.5,16
+North Central Service,2018,5,136850.5,16
+North Central Service,2018,4,135606.5,16
+North Central Service,2018,3,132594,16
+North Central Service,2018,2,124844.5,16
+North Central Service,2018,1,149915.5,16
+North Central Service,2019,12,119305,16
+North Central Service,2019,11,128580.5,16
+North Central Service,2019,10,140905.5,16
+North Central Service,2019,9,133521.5,16
+North Central Service,2019,8,138607.5,16
+North Central Service,2019,7,139972,16
+North Central Service,2019,6,136547,16
+North Central Service,2019,5,132542,16
+North Central Service,2019,4,134990.5,16
+North Central Service,2019,3,129803,16
+North Central Service,2019,2,127969,16
+North Central Service,2019,1,127161.5,16
+North Central Service,2020,12,3684.3,16
+North Central Service,2020,11,3633.6,16
+North Central Service,2020,10,4769.4,16
+North Central Service,2020,9,4975.5,16
+North Central Service,2020,8,4992.8,16
+North Central Service,2020,7,6067.4,16
+North Central Service,2020,6,5830.8,16
+North Central Service,2020,5,1759,16
+North Central Service,2020,4,3261,16
+North Central Service,2020,3,53673.4,16
+North Central Service,2020,2,123729.5,16
+North Central Service,2020,1,126952,16
+North Central Service,2021,12,15259.8,16
+North Central Service,2021,11,19827.2,16
+North Central Service,2021,10,19472.9,16
+North Central Service,2021,9,18397.7,16
+North Central Service,2021,8,18329.3,16
+North Central Service,2021,7,16868.9,16
+North Central Service,2021,6,12373.9,16
+North Central Service,2021,5,7301.9,16
+North Central Service,2021,4,5925.3,16
+North Central Service,2021,3,5064.3,16
+North Central Service,2021,2,3776.9,16
+North Central Service,2021,1,4070.1,16
+North Central Service,2022,12,24557.1,16
+North Central Service,2022,11,31267,16
+North Central Service,2022,10,32707.4,16
+North Central Service,2022,9,33945,16
+North Central Service,2022,8,34734.8,16
+North Central Service,2022,7,29948.8,16
+North Central Service,2022,6,31999.3,16
+North Central Service,2022,5,27034.2,16
+North Central Service,2022,4,25424.1,16
+North Central Service,2022,3,24401.8,16
+North Central Service,2022,2,16003.4,16
+North Central Service,2022,1,12340.5,16
+North Central Service,2023,12,35273.9,16
+North Central Service,2023,11,47881.2,16
+North Central Service,2023,10,54139.7,16
+North Central Service,2023,9,48265.9,16
+North Central Service,2023,8,52851.6,16
+North Central Service,2023,7,46048.3,16
+North Central Service,2023,6,48852,16
+North Central Service,2023,5,47102.6,16
+North Central Service,2023,4,41716,16
+North Central Service,2023,3,43440.6,16
+North Central Service,2023,2,34203,16
+North Central Service,2023,1,35886.4,16
+North Central Service,2024,11,46041.9,16
+North Central Service,2024,10,59552.5,16
+North Central Service,2024,9,54868.2,16
+North Central Service,2024,8,50236.3,16
+North Central Service,2024,7,57732.8,16
+North Central Service,2024,6,51420.6,16
+North Central Service,2024,5,54574.9,16
+North Central Service,2024,4,54366.9,16
+North Central Service,2024,3,46711.4,16
+North Central Service,2024,2,48180.9,16
+North Central Service,2024,1,45107.7,16
+Rock Island District Main Line,2002,12,738686,6
+Rock Island District Main Line,2002,11,755793,6
+Rock Island District Main Line,2002,10,809043,6
+Rock Island District Main Line,2002,9,774751,6
+Rock Island District Main Line,2002,8,773989,6
+Rock Island District Main Line,2002,7,819733,6
+Rock Island District Main Line,2002,6,768142,6
+Rock Island District Main Line,2002,5,826571,6
+Rock Island District Main Line,2002,4,792802,6
+Rock Island District Main Line,2002,3,785048,6
+Rock Island District Main Line,2002,2,760597,6
+Rock Island District Main Line,2002,1,799280,6
+Rock Island District Main Line,2003,12,746732,6
+Rock Island District Main Line,2003,11,740080,6
+Rock Island District Main Line,2003,10,799449,6
+Rock Island District Main Line,2003,9,795376,6
+Rock Island District Main Line,2003,8,763553,6
+Rock Island District Main Line,2003,7,829200,6
+Rock Island District Main Line,2003,6,794552,6
+Rock Island District Main Line,2003,5,752720,6
+Rock Island District Main Line,2003,4,760623,6
+Rock Island District Main Line,2003,3,768075,6
+Rock Island District Main Line,2003,2,739152,6
+Rock Island District Main Line,2003,1,766842,6
+Rock Island District Main Line,2004,12,737862,6
+Rock Island District Main Line,2004,11,780671,6
+Rock Island District Main Line,2004,10,779370,6
+Rock Island District Main Line,2004,9,780354,6
+Rock Island District Main Line,2004,8,775416,6
+Rock Island District Main Line,2004,7,790034,6
+Rock Island District Main Line,2004,6,807823,6
+Rock Island District Main Line,2004,5,750259,6
+Rock Island District Main Line,2004,4,761614,6
+Rock Island District Main Line,2004,3,783085,6
+Rock Island District Main Line,2004,2,738332,6
+Rock Island District Main Line,2004,1,761419,6
+Rock Island District Main Line,2005,12,760271,6
+Rock Island District Main Line,2005,11,797742,6
+Rock Island District Main Line,2005,10,805917,6
+Rock Island District Main Line,2005,9,804274,6
+Rock Island District Main Line,2005,8,799178,6
+Rock Island District Main Line,2005,7,786500,6
+Rock Island District Main Line,2005,6,810689,6
+Rock Island District Main Line,2005,5,758184,6
+Rock Island District Main Line,2005,4,767827,6
+Rock Island District Main Line,2005,3,776087,6
+Rock Island District Main Line,2005,2,739401,6
+Rock Island District Main Line,2005,1,770363,6
+Rock Island District Main Line,2006,12,775107,6
+Rock Island District Main Line,2006,11,836772,6
+Rock Island District Main Line,2006,10,856555,6
+Rock Island District Main Line,2006,9,830106,6
+Rock Island District Main Line,2006,8,865665,6
+Rock Island District Main Line,2006,7,872614,6
+Rock Island District Main Line,2006,6,864550,6
+Rock Island District Main Line,2006,5,843887,6
+Rock Island District Main Line,2006,4,818498,6
+Rock Island District Main Line,2006,3,808091,6
+Rock Island District Main Line,2006,2,744344,6
+Rock Island District Main Line,2006,1,817190,6
+Rock Island District Main Line,2007,12,758019,6
+Rock Island District Main Line,2007,11,820116,6
+Rock Island District Main Line,2007,10,872977,6
+Rock Island District Main Line,2007,9,830080,6
+Rock Island District Main Line,2007,8,853418,6
+Rock Island District Main Line,2007,7,885624,6
+Rock Island District Main Line,2007,6,859082,6
+Rock Island District Main Line,2007,5,845792,6
+Rock Island District Main Line,2007,4,809205,6
+Rock Island District Main Line,2007,3,823012,6
+Rock Island District Main Line,2007,2,758428,6
+Rock Island District Main Line,2007,1,803990,6
+Rock Island District Main Line,2008,12,745598,6
+Rock Island District Main Line,2008,11,756974,6
+Rock Island District Main Line,2008,10,827769,6
+Rock Island District Main Line,2008,9,818439,6
+Rock Island District Main Line,2008,8,807432,6
+Rock Island District Main Line,2008,7,876668,6
+Rock Island District Main Line,2008,6,834609,6
+Rock Island District Main Line,2008,5,797712,6
+Rock Island District Main Line,2008,4,800803,6
+Rock Island District Main Line,2008,3,755839,6
+Rock Island District Main Line,2008,2,740208,6
+Rock Island District Main Line,2008,1,879510,6
+Rock Island District Main Line,2009,12,692709,6
+Rock Island District Main Line,2009,11,707464,6
+Rock Island District Main Line,2009,10,741007,6
+Rock Island District Main Line,2009,9,742263,6
+Rock Island District Main Line,2009,8,742007,6
+Rock Island District Main Line,2009,7,785708,6
+Rock Island District Main Line,2009,6,780560,6
+Rock Island District Main Line,2009,5,723383,6
+Rock Island District Main Line,2009,4,739616,6
+Rock Island District Main Line,2009,3,759591,6
+Rock Island District Main Line,2009,2,725774,6
+Rock Island District Main Line,2009,1,750716,6
+Rock Island District Main Line,2010,12,668545,6
+Rock Island District Main Line,2010,11,714872,6
+Rock Island District Main Line,2010,10,715427,6
+Rock Island District Main Line,2010,9,722876,6
+Rock Island District Main Line,2010,8,733325,6
+Rock Island District Main Line,2010,7,730274,6
+Rock Island District Main Line,2010,6,764183,6
+Rock Island District Main Line,2010,5,690327,6
+Rock Island District Main Line,2010,4,707621,6
+Rock Island District Main Line,2010,3,719816,6
+Rock Island District Main Line,2010,2,688402,6
+Rock Island District Main Line,2010,1,698083,6
+Rock Island District Main Line,2011,12,679661,6
+Rock Island District Main Line,2011,11,734366,6
+Rock Island District Main Line,2011,10,739668,6
+Rock Island District Main Line,2011,9,740930,6
+Rock Island District Main Line,2011,8,763226,6
+Rock Island District Main Line,2011,7,721719,6
+Rock Island District Main Line,2011,6,757555,6
+Rock Island District Main Line,2011,5,704935,6
+Rock Island District Main Line,2011,4,698407,6
+Rock Island District Main Line,2011,3,715028,6
+Rock Island District Main Line,2011,2,653196,6
+Rock Island District Main Line,2011,1,692045,6
+Rock Island District Main Line,2012,12,647025,6
+Rock Island District Main Line,2012,11,699291,6
+Rock Island District Main Line,2012,10,731736,6
+Rock Island District Main Line,2012,9,697181,6
+Rock Island District Main Line,2012,8,727871,6
+Rock Island District Main Line,2012,7,724517,6
+Rock Island District Main Line,2012,6,735109,6
+Rock Island District Main Line,2012,5,713967,6
+Rock Island District Main Line,2012,4,713967,6
+Rock Island District Main Line,2012,3,727963,6
+Rock Island District Main Line,2012,2,673875,6
+Rock Island District Main Line,2012,1,707858,6
+Rock Island District Main Line,2013,12,680515,6
+Rock Island District Main Line,2013,11,703466,6
+Rock Island District Main Line,2013,10,740447,6
+Rock Island District Main Line,2013,9,733301,6
+Rock Island District Main Line,2013,8,739668,6
+Rock Island District Main Line,2013,7,768465,6
+Rock Island District Main Line,2013,6,742387,6
+Rock Island District Main Line,2013,5,720146,6
+Rock Island District Main Line,2013,4,712607,6
+Rock Island District Main Line,2013,3,705308,6
+Rock Island District Main Line,2013,2,663349,6
+Rock Island District Main Line,2013,1,679868,6
+Rock Island District Main Line,2014,12,691318,6
+Rock Island District Main Line,2014,11,690153,6
+Rock Island District Main Line,2014,10,733743,6
+Rock Island District Main Line,2014,9,730524,6
+Rock Island District Main Line,2014,8,722428,6
+Rock Island District Main Line,2014,7,749867,6
+Rock Island District Main Line,2014,6,750200,6
+Rock Island District Main Line,2014,5,709827,6
+Rock Island District Main Line,2014,4,709761,6
+Rock Island District Main Line,2014,3,702280,6
+Rock Island District Main Line,2014,2,676299,6
+Rock Island District Main Line,2014,1,678357,6
+Rock Island District Main Line,2015,12,655764,6
+Rock Island District Main Line,2015,11,673934.5,6
+Rock Island District Main Line,2015,10,697558.5,6
+Rock Island District Main Line,2015,9,696900.5,6
+Rock Island District Main Line,2015,8,716675.5,6
+Rock Island District Main Line,2015,7,731599.5,6
+Rock Island District Main Line,2015,6,738346,6
+Rock Island District Main Line,2015,5,676362.5,6
+Rock Island District Main Line,2015,4,680642,6
+Rock Island District Main Line,2015,3,696370,6
+Rock Island District Main Line,2015,2,649846,6
+Rock Island District Main Line,2015,1,691274,6
+Rock Island District Main Line,2016,12,634120,6
+Rock Island District Main Line,2016,11,702651.5,6
+Rock Island District Main Line,2016,10,685510.5,6
+Rock Island District Main Line,2016,9,680185,6
+Rock Island District Main Line,2016,8,677315,6
+Rock Island District Main Line,2016,7,700734.5,6
+Rock Island District Main Line,2016,6,706966,6
+Rock Island District Main Line,2016,5,673495,6
+Rock Island District Main Line,2016,4,660438,6
+Rock Island District Main Line,2016,3,679000,6
+Rock Island District Main Line,2016,2,646213.5,6
+Rock Island District Main Line,2016,1,661900,6
+Rock Island District Main Line,2017,12,614533.5,6
+Rock Island District Main Line,2017,11,653665,6
+Rock Island District Main Line,2017,10,672431,6
+Rock Island District Main Line,2017,9,654044.5,6
+Rock Island District Main Line,2017,8,695382.5,6
+Rock Island District Main Line,2017,7,670931.5,6
+Rock Island District Main Line,2017,6,695193,6
+Rock Island District Main Line,2017,5,664645.5,6
+Rock Island District Main Line,2017,4,641868.5,6
+Rock Island District Main Line,2017,3,666555,6
+Rock Island District Main Line,2017,2,616977,6
+Rock Island District Main Line,2017,1,677954.5,6
+Rock Island District Main Line,2018,12,578889,6
+Rock Island District Main Line,2018,11,625229.5,6
+Rock Island District Main Line,2018,10,654830.5,6
+Rock Island District Main Line,2018,9,631683.5,6
+Rock Island District Main Line,2018,8,660524.5,6
+Rock Island District Main Line,2018,7,648406,6
+Rock Island District Main Line,2018,6,647401.5,6
+Rock Island District Main Line,2018,5,636835,6
+Rock Island District Main Line,2018,4,622112.5,6
+Rock Island District Main Line,2018,3,630344.5,6
+Rock Island District Main Line,2018,2,584974,6
+Rock Island District Main Line,2018,1,657099.5,6
+Rock Island District Main Line,2019,12,579996.5,6
+Rock Island District Main Line,2019,11,597208,6
+Rock Island District Main Line,2019,10,628254.5,6
+Rock Island District Main Line,2019,9,612937,6
+Rock Island District Main Line,2019,8,632725.5,6
+Rock Island District Main Line,2019,7,633960.5,6
+Rock Island District Main Line,2019,6,627554.5,6
+Rock Island District Main Line,2019,5,618171,6
+Rock Island District Main Line,2019,4,614211,6
+Rock Island District Main Line,2019,3,613350,6
+Rock Island District Main Line,2019,2,590472.5,6
+Rock Island District Main Line,2019,1,589099.5,6
+Rock Island District Main Line,2020,12,59209.4,6
+Rock Island District Main Line,2020,11,59668,6
+Rock Island District Main Line,2020,10,73079.7,6
+Rock Island District Main Line,2020,9,79165.1,6
+Rock Island District Main Line,2020,8,73746.1,6
+Rock Island District Main Line,2020,7,76701.5,6
+Rock Island District Main Line,2020,6,58901.5,6
+Rock Island District Main Line,2020,5,27574,6
+Rock Island District Main Line,2020,4,24209,6
+Rock Island District Main Line,2020,3,250785.4,6
+Rock Island District Main Line,2020,2,575420,6
+Rock Island District Main Line,2020,1,591392.5,6
+Rock Island District Main Line,2021,12,161148.5,6
+Rock Island District Main Line,2021,11,188850.4,6
+Rock Island District Main Line,2021,10,195288.2,6
+Rock Island District Main Line,2021,9,186696.2,6
+Rock Island District Main Line,2021,8,185518.8,6
+Rock Island District Main Line,2021,7,180072.3,6
+Rock Island District Main Line,2021,6,151161.7,6
+Rock Island District Main Line,2021,5,106943.2,6
+Rock Island District Main Line,2021,4,91013.3,6
+Rock Island District Main Line,2021,3,89300.6,6
+Rock Island District Main Line,2021,2,65440.3,6
+Rock Island District Main Line,2021,1,67839.2,6
+Rock Island District Main Line,2022,12,198560.9,6
+Rock Island District Main Line,2022,11,233918,6
+Rock Island District Main Line,2022,10,242874.5,6
+Rock Island District Main Line,2022,9,251383.6,6
+Rock Island District Main Line,2022,8,261445.2,6
+Rock Island District Main Line,2022,7,236768.7,6
+Rock Island District Main Line,2022,6,240657.1,6
+Rock Island District Main Line,2022,5,227941.3,6
+Rock Island District Main Line,2022,4,210480.2,6
+Rock Island District Main Line,2022,3,218827.1,6
+Rock Island District Main Line,2022,2,150548.8,6
+Rock Island District Main Line,2022,1,131483.4,6
+Rock Island District Main Line,2023,12,219358.1,6
+Rock Island District Main Line,2023,11,258349.7,6
+Rock Island District Main Line,2023,10,276678.2,6
+Rock Island District Main Line,2023,9,263261.2,6
+Rock Island District Main Line,2023,8,288721.6,6
+Rock Island District Main Line,2023,7,255446.2,6
+Rock Island District Main Line,2023,6,272208,6
+Rock Island District Main Line,2023,5,273953.8,6
+Rock Island District Main Line,2023,4,240579,6
+Rock Island District Main Line,2023,3,262755.5,6
+Rock Island District Main Line,2023,2,214863,6
+Rock Island District Main Line,2023,1,233346.6,6
+Rock Island District Main Line,2024,11,247491.1,6
+Rock Island District Main Line,2024,10,300671.4,6
+Rock Island District Main Line,2024,9,277150.9,6
+Rock Island District Main Line,2024,8,270248,6
+Rock Island District Main Line,2024,7,286519.5,6
+Rock Island District Main Line,2024,6,264576,6
+Rock Island District Main Line,2024,5,284183.3,6
+Rock Island District Main Line,2024,4,263525.4,6
+Rock Island District Main Line,2024,3,231845.1,6
+Rock Island District Main Line,2024,2,195822.1,6
+Rock Island District Main Line,2024,1,305454.3,6
+SouthWest Service,2002,12,132724,8
+SouthWest Service,2002,11,137076,8
+SouthWest Service,2002,10,139533,8
+SouthWest Service,2002,9,129456,8
+SouthWest Service,2002,8,132357,8
+SouthWest Service,2002,7,119476,8
+SouthWest Service,2002,6,111233,8
+SouthWest Service,2002,5,121339,8
+SouthWest Service,2002,4,124722,8
+SouthWest Service,2002,3,119743,8
+SouthWest Service,2002,2,123317,8
+SouthWest Service,2002,1,128496,8
+SouthWest Service,2003,12,133285,8
+SouthWest Service,2003,11,142676,8
+SouthWest Service,2003,10,153946,8
+SouthWest Service,2003,9,145506,8
+SouthWest Service,2003,8,144054,8
+SouthWest Service,2003,7,144467,8
+SouthWest Service,2003,6,145104,8
+SouthWest Service,2003,5,142078,8
+SouthWest Service,2003,4,146863,8
+SouthWest Service,2003,3,148620,8
+SouthWest Service,2003,2,141524,8
+SouthWest Service,2003,1,142432,8
+SouthWest Service,2004,12,141607,8
+SouthWest Service,2004,11,151492,8
+SouthWest Service,2004,10,149007,8
+SouthWest Service,2004,9,148205,8
+SouthWest Service,2004,8,141388,8
+SouthWest Service,2004,7,143639,8
+SouthWest Service,2004,6,149624,8
+SouthWest Service,2004,5,145068,8
+SouthWest Service,2004,4,147112,8
+SouthWest Service,2004,3,152107,8
+SouthWest Service,2004,2,151382,8
+SouthWest Service,2004,1,145637,8
+SouthWest Service,2005,12,146498,8
+SouthWest Service,2005,11,155594,8
+SouthWest Service,2005,10,152577,8
+SouthWest Service,2005,9,152950,8
+SouthWest Service,2005,8,155359,8
+SouthWest Service,2005,7,145545,8
+SouthWest Service,2005,6,150861,8
+SouthWest Service,2005,5,149012,8
+SouthWest Service,2005,4,149653,8
+SouthWest Service,2005,3,154967,8
+SouthWest Service,2005,2,149945,8
+SouthWest Service,2005,1,152975,8
+SouthWest Service,2006,12,176879,8
+SouthWest Service,2006,11,190196,8
+SouthWest Service,2006,10,189670,8
+SouthWest Service,2006,9,186832,8
+SouthWest Service,2006,8,192633,8
+SouthWest Service,2006,7,182027,8
+SouthWest Service,2006,6,190394,8
+SouthWest Service,2006,5,181167,8
+SouthWest Service,2006,4,174943,8
+SouthWest Service,2006,3,175625,8
+SouthWest Service,2006,2,158182,8
+SouthWest Service,2006,1,163957,8
+SouthWest Service,2007,12,195966,8
+SouthWest Service,2007,11,213289,8
+SouthWest Service,2007,10,214666,8
+SouthWest Service,2007,9,202973,8
+SouthWest Service,2007,8,204993,8
+SouthWest Service,2007,7,202145,8
+SouthWest Service,2007,6,200889,8
+SouthWest Service,2007,5,200642,8
+SouthWest Service,2007,4,194593,8
+SouthWest Service,2007,3,196308,8
+SouthWest Service,2007,2,185851,8
+SouthWest Service,2007,1,191464,8
+SouthWest Service,2008,12,206712,8
+SouthWest Service,2008,11,204004,8
+SouthWest Service,2008,10,222466,8
+SouthWest Service,2008,9,216834,8
+SouthWest Service,2008,8,213788,8
+SouthWest Service,2008,7,222993,8
+SouthWest Service,2008,6,216176,8
+SouthWest Service,2008,5,209217,8
+SouthWest Service,2008,4,207665,8
+SouthWest Service,2008,3,199701,8
+SouthWest Service,2008,2,192701,8
+SouthWest Service,2008,1,229068,8
+SouthWest Service,2009,12,196242,8
+SouthWest Service,2009,11,203047,8
+SouthWest Service,2009,10,207356,8
+SouthWest Service,2009,9,210609,8
+SouthWest Service,2009,8,206353,8
+SouthWest Service,2009,7,211214,8
+SouthWest Service,2009,6,210492,8
+SouthWest Service,2009,5,199355,8
+SouthWest Service,2009,4,207548,8
+SouthWest Service,2009,3,211832,8
+SouthWest Service,2009,2,204363,8
+SouthWest Service,2009,1,209304,8
+SouthWest Service,2010,12,194392,8
+SouthWest Service,2010,11,207362,8
+SouthWest Service,2010,10,211041,8
+SouthWest Service,2010,9,207437,8
+SouthWest Service,2010,8,208504,8
+SouthWest Service,2010,7,202076,8
+SouthWest Service,2010,6,209718,8
+SouthWest Service,2010,5,198511,8
+SouthWest Service,2010,4,202989,8
+SouthWest Service,2010,3,206139,8
+SouthWest Service,2010,2,200599,8
+SouthWest Service,2010,1,202084,8
+SouthWest Service,2011,12,198957,8
+SouthWest Service,2011,11,219038,8
+SouthWest Service,2011,10,222513,8
+SouthWest Service,2011,9,213882,8
+SouthWest Service,2011,8,220869,8
+SouthWest Service,2011,7,208190,8
+SouthWest Service,2011,6,219360,8
+SouthWest Service,2011,5,212566,8
+SouthWest Service,2011,4,217278,8
+SouthWest Service,2011,3,218803,8
+SouthWest Service,2011,2,202430,8
+SouthWest Service,2011,1,204211,8
+SouthWest Service,2012,12,191441,8
+SouthWest Service,2012,11,214506,8
+SouthWest Service,2012,10,220762,8
+SouthWest Service,2012,9,209500,8
+SouthWest Service,2012,8,214996,8
+SouthWest Service,2012,7,209540,8
+SouthWest Service,2012,6,213828,8
+SouthWest Service,2012,5,210284,8
+SouthWest Service,2012,4,210284,8
+SouthWest Service,2012,3,215096,8
+SouthWest Service,2012,2,205595,8
+SouthWest Service,2012,1,213730,8
+SouthWest Service,2013,12,209116,8
+SouthWest Service,2013,11,221249,8
+SouthWest Service,2013,10,231783,8
+SouthWest Service,2013,9,221878,8
+SouthWest Service,2013,8,219526,8
+SouthWest Service,2013,7,219428,8
+SouthWest Service,2013,6,216636,8
+SouthWest Service,2013,5,214262,8
+SouthWest Service,2013,4,219684,8
+SouthWest Service,2013,3,216189,8
+SouthWest Service,2013,2,208317,8
+SouthWest Service,2013,1,207774,8
+SouthWest Service,2014,12,213133,8
+SouthWest Service,2014,11,218017,8
+SouthWest Service,2014,10,232691,8
+SouthWest Service,2014,9,228269,8
+SouthWest Service,2014,8,221929,8
+SouthWest Service,2014,7,226171,8
+SouthWest Service,2014,6,223283,8
+SouthWest Service,2014,5,218156,8
+SouthWest Service,2014,4,224388,8
+SouthWest Service,2014,3,220437,8
+SouthWest Service,2014,2,216526,8
+SouthWest Service,2014,1,216043,8
+SouthWest Service,2015,12,204892,8
+SouthWest Service,2015,11,215717.5,8
+SouthWest Service,2015,10,223018,8
+SouthWest Service,2015,9,220152,8
+SouthWest Service,2015,8,214841.5,8
+SouthWest Service,2015,7,219708,8
+SouthWest Service,2015,6,224503,8
+SouthWest Service,2015,5,209334.5,8
+SouthWest Service,2015,4,219360,8
+SouthWest Service,2015,3,222221.5,8
+SouthWest Service,2015,2,209084,8
+SouthWest Service,2015,1,221459.5,8
+SouthWest Service,2016,12,192234,8
+SouthWest Service,2016,11,216497,8
+SouthWest Service,2016,10,214223,8
+SouthWest Service,2016,9,212356.5,8
+SouthWest Service,2016,8,210681,8
+SouthWest Service,2016,7,211897.5,8
+SouthWest Service,2016,6,216480,8
+SouthWest Service,2016,5,208662,8
+SouthWest Service,2016,4,212100,8
+SouthWest Service,2016,3,216843,8
+SouthWest Service,2016,2,210957,8
+SouthWest Service,2016,1,215167,8
+SouthWest Service,2017,12,188789.5,8
+SouthWest Service,2017,11,208961.5,8
+SouthWest Service,2017,10,215951,8
+SouthWest Service,2017,9,204092,8
+SouthWest Service,2017,8,211287.5,8
+SouthWest Service,2017,7,198903,8
+SouthWest Service,2017,6,207049,8
+SouthWest Service,2017,5,201535,8
+SouthWest Service,2017,4,200609.5,8
+SouthWest Service,2017,3,208112.5,8
+SouthWest Service,2017,2,196541,8
+SouthWest Service,2017,1,215642.5,8
+SouthWest Service,2018,12,184239,8
+SouthWest Service,2018,11,202115,8
+SouthWest Service,2018,10,212031,8
+SouthWest Service,2018,9,201077.5,8
+SouthWest Service,2018,8,204842.5,8
+SouthWest Service,2018,7,202203,8
+SouthWest Service,2018,6,203906.5,8
+SouthWest Service,2018,5,203897.5,8
+SouthWest Service,2018,4,200184,8
+SouthWest Service,2018,3,201581,8
+SouthWest Service,2018,2,191681,8
+SouthWest Service,2018,1,213163,8
+SouthWest Service,2019,12,178872.5,8
+SouthWest Service,2019,11,194476,8
+SouthWest Service,2019,10,206926.5,8
+SouthWest Service,2019,9,199359,8
+SouthWest Service,2019,8,197972.5,8
+SouthWest Service,2019,7,197593,8
+SouthWest Service,2019,6,193852.5,8
+SouthWest Service,2019,5,196981,8
+SouthWest Service,2019,4,204982,8
+SouthWest Service,2019,3,197968.5,8
+SouthWest Service,2019,2,194450,8
+SouthWest Service,2019,1,193330.5,8
+SouthWest Service,2020,12,12419.7,8
+SouthWest Service,2020,11,11954.3,8
+SouthWest Service,2020,10,15109.6,8
+SouthWest Service,2020,9,15463.1,8
+SouthWest Service,2020,8,15616,8
+SouthWest Service,2020,7,16620.8,8
+SouthWest Service,2020,6,12733.3,8
+SouthWest Service,2020,5,4118,8
+SouthWest Service,2020,4,6027,8
+SouthWest Service,2020,3,81323.8,8
+SouthWest Service,2020,2,191844.5,8
+SouthWest Service,2020,1,193602,8
+SouthWest Service,2021,12,28999.3,8
+SouthWest Service,2021,11,37767.2,8
+SouthWest Service,2021,10,38032.5,8
+SouthWest Service,2021,9,35990.5,8
+SouthWest Service,2021,8,33341.9,8
+SouthWest Service,2021,7,30403.6,8
+SouthWest Service,2021,6,25556.8,8
+SouthWest Service,2021,5,17489.3,8
+SouthWest Service,2021,4,16075.7,8
+SouthWest Service,2021,3,16327.5,8
+SouthWest Service,2021,2,12260,8
+SouthWest Service,2021,1,12923.3,8
+SouthWest Service,2022,12,41795.7,8
+SouthWest Service,2022,11,53558,8
+SouthWest Service,2022,10,57246.8,8
+SouthWest Service,2022,9,56470.3,8
+SouthWest Service,2022,8,57015.7,8
+SouthWest Service,2022,7,45167.2,8
+SouthWest Service,2022,6,48363.4,8
+SouthWest Service,2022,5,46391.1,8
+SouthWest Service,2022,4,45787,8
+SouthWest Service,2022,3,48459.2,8
+SouthWest Service,2022,2,31709.4,8
+SouthWest Service,2022,1,24627,8
+SouthWest Service,2023,12,59276.8,8
+SouthWest Service,2023,11,77738.1,8
+SouthWest Service,2023,10,87121.7,8
+SouthWest Service,2023,9,78415.9,8
+SouthWest Service,2023,8,80228.9,8
+SouthWest Service,2023,7,68027.9,8
+SouthWest Service,2023,6,72377,8
+SouthWest Service,2023,5,71348.3,8
+SouthWest Service,2023,4,63316,8
+SouthWest Service,2023,3,69208.9,8
+SouthWest Service,2023,2,56944.9,8
+SouthWest Service,2023,1,60562.5,8
+SouthWest Service,2024,11,76959.1,8
+SouthWest Service,2024,10,100367.1,8
+SouthWest Service,2024,9,90072.8,8
+SouthWest Service,2024,8,77373.2,8
+SouthWest Service,2024,7,84226.9,8
+SouthWest Service,2024,6,78415.9,8
+SouthWest Service,2024,5,82172.5,8
+SouthWest Service,2024,4,85920.1,8
+SouthWest Service,2024,3,76823.5,8
+SouthWest Service,2024,2,78525.2,8
+SouthWest Service,2024,1,77523.2,8
+Union Pacific North Line,2002,12,640236,17
+Union Pacific North Line,2002,11,666796,17
+Union Pacific North Line,2002,10,727095,17
+Union Pacific North Line,2002,9,697851,17
+Union Pacific North Line,2002,8,709619,17
+Union Pacific North Line,2002,7,746299,17
+Union Pacific North Line,2002,6,680208,17
+Union Pacific North Line,2002,5,789403,17
+Union Pacific North Line,2002,4,698164,17
+Union Pacific North Line,2002,3,669224,17
+Union Pacific North Line,2002,2,669363,17
+Union Pacific North Line,2002,1,704040,17
+Union Pacific North Line,2003,12,623684,17
+Union Pacific North Line,2003,11,634000,17
+Union Pacific North Line,2003,10,722401,17
+Union Pacific North Line,2003,9,683676,17
+Union Pacific North Line,2003,8,666467,17
+Union Pacific North Line,2003,7,717828,17
+Union Pacific North Line,2003,6,685243,17
+Union Pacific North Line,2003,5,661641,17
+Union Pacific North Line,2003,4,654834,17
+Union Pacific North Line,2003,3,651475,17
+Union Pacific North Line,2003,2,628096,17
+Union Pacific North Line,2003,1,672637,17
+Union Pacific North Line,2004,12,634836,17
+Union Pacific North Line,2004,11,677645,17
+Union Pacific North Line,2004,10,684071,17
+Union Pacific North Line,2004,9,685303,17
+Union Pacific North Line,2004,8,687619,17
+Union Pacific North Line,2004,7,709337,17
+Union Pacific North Line,2004,6,712527,17
+Union Pacific North Line,2004,5,645162,17
+Union Pacific North Line,2004,4,656005,17
+Union Pacific North Line,2004,3,675162,17
+Union Pacific North Line,2004,2,650831,17
+Union Pacific North Line,2004,1,644155,17
+Union Pacific North Line,2005,12,655232,17
+Union Pacific North Line,2005,11,700038,17
+Union Pacific North Line,2005,10,714860,17
+Union Pacific North Line,2005,9,722072,17
+Union Pacific North Line,2005,8,724329,17
+Union Pacific North Line,2005,7,702410,17
+Union Pacific North Line,2005,6,723584,17
+Union Pacific North Line,2005,5,667982,17
+Union Pacific North Line,2005,4,652522,17
+Union Pacific North Line,2005,3,672527,17
+Union Pacific North Line,2005,2,657701,17
+Union Pacific North Line,2005,1,659315,17
+Union Pacific North Line,2006,12,643029,17
+Union Pacific North Line,2006,11,721593,17
+Union Pacific North Line,2006,10,734178,17
+Union Pacific North Line,2006,9,709809,17
+Union Pacific North Line,2006,8,733266,17
+Union Pacific North Line,2006,7,717359,17
+Union Pacific North Line,2006,6,729723,17
+Union Pacific North Line,2006,5,681780,17
+Union Pacific North Line,2006,4,648474,17
+Union Pacific North Line,2006,3,670773,17
+Union Pacific North Line,2006,2,623668,17
+Union Pacific North Line,2006,1,733315,17
+Union Pacific North Line,2007,12,733082,17
+Union Pacific North Line,2007,11,808845,17
+Union Pacific North Line,2007,10,865180,17
+Union Pacific North Line,2007,9,777915,17
+Union Pacific North Line,2007,8,811823,17
+Union Pacific North Line,2007,7,807585,17
+Union Pacific North Line,2007,6,815034,17
+Union Pacific North Line,2007,5,777073,17
+Union Pacific North Line,2007,4,732171,17
+Union Pacific North Line,2007,3,714244,17
+Union Pacific North Line,2007,2,663596,17
+Union Pacific North Line,2007,1,693749,17
+Union Pacific North Line,2008,12,830674,17
+Union Pacific North Line,2008,11,863680,17
+Union Pacific North Line,2008,10,953793,17
+Union Pacific North Line,2008,9,910501,17
+Union Pacific North Line,2008,8,954014,17
+Union Pacific North Line,2008,7,999124,17
+Union Pacific North Line,2008,6,937043,17
+Union Pacific North Line,2008,5,869428,17
+Union Pacific North Line,2008,4,818495,17
+Union Pacific North Line,2008,3,720635,17
+Union Pacific North Line,2008,2,692258,17
+Union Pacific North Line,2008,1,949443,17
+Union Pacific North Line,2009,12,828725,17
+Union Pacific North Line,2009,11,868261,17
+Union Pacific North Line,2009,10,906773,17
+Union Pacific North Line,2009,9,911826,17
+Union Pacific North Line,2009,8,910200,17
+Union Pacific North Line,2009,7,928940,17
+Union Pacific North Line,2009,6,937233,17
+Union Pacific North Line,2009,5,851881,17
+Union Pacific North Line,2009,4,853920,17
+Union Pacific North Line,2009,3,879645,17
+Union Pacific North Line,2009,2,823137,17
+Union Pacific North Line,2009,1,865992,17
+Union Pacific North Line,2010,12,748210,17
+Union Pacific North Line,2010,11,803779,17
+Union Pacific North Line,2010,10,844158,17
+Union Pacific North Line,2010,9,820462,17
+Union Pacific North Line,2010,8,857665,17
+Union Pacific North Line,2010,7,888968,17
+Union Pacific North Line,2010,6,911966,17
+Union Pacific North Line,2010,5,854315,17
+Union Pacific North Line,2010,4,857832,17
+Union Pacific North Line,2010,3,874172,17
+Union Pacific North Line,2010,2,804948,17
+Union Pacific North Line,2010,1,853197,17
+Union Pacific North Line,2011,12,684844,17
+Union Pacific North Line,2011,11,781473,17
+Union Pacific North Line,2011,10,787273,17
+Union Pacific North Line,2011,9,781528,17
+Union Pacific North Line,2011,8,860371,17
+Union Pacific North Line,2011,7,805860,17
+Union Pacific North Line,2011,6,851803,17
+Union Pacific North Line,2011,5,754973,17
+Union Pacific North Line,2011,4,733392,17
+Union Pacific North Line,2011,3,844718,17
+Union Pacific North Line,2011,2,767640,17
+Union Pacific North Line,2011,1,788366,17
+Union Pacific North Line,2012,12,661424,17
+Union Pacific North Line,2012,11,761932,17
+Union Pacific North Line,2012,10,802226,17
+Union Pacific North Line,2012,9,741051,17
+Union Pacific North Line,2012,8,817215,17
+Union Pacific North Line,2012,7,810148,17
+Union Pacific North Line,2012,6,796109,17
+Union Pacific North Line,2012,5,754253,17
+Union Pacific North Line,2012,4,754253,17
+Union Pacific North Line,2012,3,744381,17
+Union Pacific North Line,2012,2,704197,17
+Union Pacific North Line,2012,1,727481,17
+Union Pacific North Line,2013,12,707426,17
+Union Pacific North Line,2013,11,754728,17
+Union Pacific North Line,2013,10,817831,17
+Union Pacific North Line,2013,9,780722,17
+Union Pacific North Line,2013,8,832655,17
+Union Pacific North Line,2013,7,855482,17
+Union Pacific North Line,2013,6,807549,17
+Union Pacific North Line,2013,5,781693,17
+Union Pacific North Line,2013,4,761154,17
+Union Pacific North Line,2013,3,757377,17
+Union Pacific North Line,2013,2,703686,17
+Union Pacific North Line,2013,1,709918,17
+Union Pacific North Line,2014,12,737392,17
+Union Pacific North Line,2014,11,758541,17
+Union Pacific North Line,2014,10,825898,17
+Union Pacific North Line,2014,9,802182,17
+Union Pacific North Line,2014,8,825824,17
+Union Pacific North Line,2014,7,864109,17
+Union Pacific North Line,2014,6,834156,17
+Union Pacific North Line,2014,5,772375,17
+Union Pacific North Line,2014,4,756622,17
+Union Pacific North Line,2014,3,746229,17
+Union Pacific North Line,2014,2,696174,17
+Union Pacific North Line,2014,1,708941,17
+Union Pacific North Line,2015,12,712593,17
+Union Pacific North Line,2015,11,755644,17
+Union Pacific North Line,2015,10,793883,17
+Union Pacific North Line,2015,9,783599.5,17
+Union Pacific North Line,2015,8,822118,17
+Union Pacific North Line,2015,7,838567.5,17
+Union Pacific North Line,2015,6,833808.5,17
+Union Pacific North Line,2015,5,749262.5,17
+Union Pacific North Line,2015,4,739857,17
+Union Pacific North Line,2015,3,755469.5,17
+Union Pacific North Line,2015,2,694899.5,17
+Union Pacific North Line,2015,1,769131.5,17
+Union Pacific North Line,2016,12,690537.5,17
+Union Pacific North Line,2016,11,785278.5,17
+Union Pacific North Line,2016,10,780274,17
+Union Pacific North Line,2016,9,782041.5,17
+Union Pacific North Line,2016,8,802987,17
+Union Pacific North Line,2016,7,825124.5,17
+Union Pacific North Line,2016,6,827294,17
+Union Pacific North Line,2016,5,764027.5,17
+Union Pacific North Line,2016,4,739120.5,17
+Union Pacific North Line,2016,3,748960.5,17
+Union Pacific North Line,2016,2,713766.5,17
+Union Pacific North Line,2016,1,753216,17
+Union Pacific North Line,2017,12,659482.5,17
+Union Pacific North Line,2017,11,742016,17
+Union Pacific North Line,2017,10,783715.5,17
+Union Pacific North Line,2017,9,754728.5,17
+Union Pacific North Line,2017,8,830256.5,17
+Union Pacific North Line,2017,7,783686,17
+Union Pacific North Line,2017,6,806301,17
+Union Pacific North Line,2017,5,759332,17
+Union Pacific North Line,2017,4,713239,17
+Union Pacific North Line,2017,3,730474,17
+Union Pacific North Line,2017,2,675998.5,17
+Union Pacific North Line,2017,1,790390,17
+Union Pacific North Line,2018,12,639254,17
+Union Pacific North Line,2018,11,708771.5,17
+Union Pacific North Line,2018,10,774570,17
+Union Pacific North Line,2018,9,725959,17
+Union Pacific North Line,2018,8,787603.5,17
+Union Pacific North Line,2018,7,758443,17
+Union Pacific North Line,2018,6,768927.5,17
+Union Pacific North Line,2018,5,734816.5,17
+Union Pacific North Line,2018,4,696670.5,17
+Union Pacific North Line,2018,3,688476,17
+Union Pacific North Line,2018,2,625305.5,17
+Union Pacific North Line,2018,1,780978.5,17
+Union Pacific North Line,2019,12,653542,17
+Union Pacific North Line,2019,11,693724,17
+Union Pacific North Line,2019,10,765436.5,17
+Union Pacific North Line,2019,9,726712,17
+Union Pacific North Line,2019,8,760506,17
+Union Pacific North Line,2019,7,773282.5,17
+Union Pacific North Line,2019,6,749850.5,17
+Union Pacific North Line,2019,5,727891.5,17
+Union Pacific North Line,2019,4,709160.5,17
+Union Pacific North Line,2019,3,682298.5,17
+Union Pacific North Line,2019,2,647711.5,17
+Union Pacific North Line,2019,1,662001.5,17
+Union Pacific North Line,2020,12,70921,17
+Union Pacific North Line,2020,11,78760,17
+Union Pacific North Line,2020,10,100252,17
+Union Pacific North Line,2020,9,99013,17
+Union Pacific North Line,2020,8,92450,17
+Union Pacific North Line,2020,7,85270,17
+Union Pacific North Line,2020,6,55500,17
+Union Pacific North Line,2020,5,36270,17
+Union Pacific North Line,2020,4,28093,17
+Union Pacific North Line,2020,3,288281.3,17
+Union Pacific North Line,2020,2,674304.5,17
+Union Pacific North Line,2020,1,691248,17
+Union Pacific North Line,2021,12,176023.8,17
+Union Pacific North Line,2021,11,221406.7,17
+Union Pacific North Line,2021,10,228502.6,17
+Union Pacific North Line,2021,9,233789.6,17
+Union Pacific North Line,2021,8,232763.8,17
+Union Pacific North Line,2021,7,223366.6,17
+Union Pacific North Line,2021,6,163923.2,17
+Union Pacific North Line,2021,5,139169,17
+Union Pacific North Line,2021,4,104989,17
+Union Pacific North Line,2021,3,94864,17
+Union Pacific North Line,2021,2,65682.8,17
+Union Pacific North Line,2021,1,69803,17
+Union Pacific North Line,2022,12,231828.2,17
+Union Pacific North Line,2022,11,291633.5,17
+Union Pacific North Line,2022,10,307177.9,17
+Union Pacific North Line,2022,9,306068,17
+Union Pacific North Line,2022,8,314430.2,17
+Union Pacific North Line,2022,7,283812.9,17
+Union Pacific North Line,2022,6,282499.9,17
+Union Pacific North Line,2022,5,256468,17
+Union Pacific North Line,2022,4,241531.8,17
+Union Pacific North Line,2022,3,238824.7,17
+Union Pacific North Line,2022,2,167748.1,17
+Union Pacific North Line,2022,1,138597.6,17
+Union Pacific North Line,2023,12,307985.8,17
+Union Pacific North Line,2023,11,368476.8,17
+Union Pacific North Line,2023,10,404770.9,17
+Union Pacific North Line,2023,9,364908.1,17
+Union Pacific North Line,2023,8,400887.5,17
+Union Pacific North Line,2023,7,351798.9,17
+Union Pacific North Line,2023,6,387049,17
+Union Pacific North Line,2023,5,374186.7,17
+Union Pacific North Line,2023,4,310472.7,17
+Union Pacific North Line,2023,3,322151,17
+Union Pacific North Line,2023,2,259381.3,17
+Union Pacific North Line,2023,1,279120.6,17
+Union Pacific North Line,2024,11,383292.6,17
+Union Pacific North Line,2024,10,478768,17
+Union Pacific North Line,2024,9,419701,17
+Union Pacific North Line,2024,8,404168.1,17
+Union Pacific North Line,2024,7,451883,17
+Union Pacific North Line,2024,6,426399.7,17
+Union Pacific North Line,2024,5,433779.4,17
+Union Pacific North Line,2024,4,407634.7,17
+Union Pacific North Line,2024,3,357282.7,17
+Union Pacific North Line,2024,2,338800.4,17
+Union Pacific North Line,2024,1,337556.4,17
+Union Pacific Northwest Line,2002,12,717873,13
+Union Pacific Northwest Line,2002,11,715812,13
+Union Pacific Northwest Line,2002,10,797624,13
+Union Pacific Northwest Line,2002,9,744996,13
+Union Pacific Northwest Line,2002,8,771804,13
+Union Pacific Northwest Line,2002,7,798377,13
+Union Pacific Northwest Line,2002,6,718349,13
+Union Pacific Northwest Line,2002,5,820532,13
+Union Pacific Northwest Line,2002,4,770489,13
+Union Pacific Northwest Line,2002,3,741227,13
+Union Pacific Northwest Line,2002,2,721967,13
+Union Pacific Northwest Line,2002,1,789514,13
+Union Pacific Northwest Line,2003,12,751192,13
+Union Pacific Northwest Line,2003,11,733997,13
+Union Pacific Northwest Line,2003,10,816440,13
+Union Pacific Northwest Line,2003,9,785443,13
+Union Pacific Northwest Line,2003,8,785574,13
+Union Pacific Northwest Line,2003,7,826912,13
+Union Pacific Northwest Line,2003,6,782084,13
+Union Pacific Northwest Line,2003,5,740875,13
+Union Pacific Northwest Line,2003,4,732942,13
+Union Pacific Northwest Line,2003,3,729303,13
+Union Pacific Northwest Line,2003,2,697270,13
+Union Pacific Northwest Line,2003,1,735986,13
+Union Pacific Northwest Line,2004,12,728330,13
+Union Pacific Northwest Line,2004,11,771940,13
+Union Pacific Northwest Line,2004,10,777545,13
+Union Pacific Northwest Line,2004,9,774886,13
+Union Pacific Northwest Line,2004,8,797940,13
+Union Pacific Northwest Line,2004,7,805957,13
+Union Pacific Northwest Line,2004,6,806255,13
+Union Pacific Northwest Line,2004,5,732495,13
+Union Pacific Northwest Line,2004,4,749741,13
+Union Pacific Northwest Line,2004,3,759824,13
+Union Pacific Northwest Line,2004,2,721395,13
+Union Pacific Northwest Line,2004,1,747391,13
+Union Pacific Northwest Line,2005,12,769189,13
+Union Pacific Northwest Line,2005,11,798525,13
+Union Pacific Northwest Line,2005,10,822998,13
+Union Pacific Northwest Line,2005,9,820894,13
+Union Pacific Northwest Line,2005,8,838532,13
+Union Pacific Northwest Line,2005,7,822464,13
+Union Pacific Northwest Line,2005,6,822543,13
+Union Pacific Northwest Line,2005,5,764405,13
+Union Pacific Northwest Line,2005,4,752916,13
+Union Pacific Northwest Line,2005,3,752890,13
+Union Pacific Northwest Line,2005,2,712444,13
+Union Pacific Northwest Line,2005,1,749968,13
+Union Pacific Northwest Line,2006,12,771376,13
+Union Pacific Northwest Line,2006,11,815778,13
+Union Pacific Northwest Line,2006,10,850421,13
+Union Pacific Northwest Line,2006,9,834552,13
+Union Pacific Northwest Line,2006,8,892415,13
+Union Pacific Northwest Line,2006,7,888763,13
+Union Pacific Northwest Line,2006,6,855449,13
+Union Pacific Northwest Line,2006,5,810525,13
+Union Pacific Northwest Line,2006,4,764086,13
+Union Pacific Northwest Line,2006,3,792137,13
+Union Pacific Northwest Line,2006,2,720554,13
+Union Pacific Northwest Line,2006,1,816947,13
+Union Pacific Northwest Line,2007,12,777588,13
+Union Pacific Northwest Line,2007,11,844358,13
+Union Pacific Northwest Line,2007,10,885666,13
+Union Pacific Northwest Line,2007,9,838436,13
+Union Pacific Northwest Line,2007,8,896475,13
+Union Pacific Northwest Line,2007,7,921602,13
+Union Pacific Northwest Line,2007,6,912259,13
+Union Pacific Northwest Line,2007,5,862054,13
+Union Pacific Northwest Line,2007,4,818483,13
+Union Pacific Northwest Line,2007,3,814186,13
+Union Pacific Northwest Line,2007,2,756148,13
+Union Pacific Northwest Line,2007,1,805251,13
+Union Pacific Northwest Line,2008,12,839638,13
+Union Pacific Northwest Line,2008,11,841351,13
+Union Pacific Northwest Line,2008,10,931017,13
+Union Pacific Northwest Line,2008,9,903358,13
+Union Pacific Northwest Line,2008,8,960992,13
+Union Pacific Northwest Line,2008,7,994209,13
+Union Pacific Northwest Line,2008,6,936862,13
+Union Pacific Northwest Line,2008,5,889380,13
+Union Pacific Northwest Line,2008,4,840541,13
+Union Pacific Northwest Line,2008,3,780390,13
+Union Pacific Northwest Line,2008,2,741761,13
+Union Pacific Northwest Line,2008,1,953708,13
+Union Pacific Northwest Line,2009,12,807356,13
+Union Pacific Northwest Line,2009,11,813014,13
+Union Pacific Northwest Line,2009,10,842018,13
+Union Pacific Northwest Line,2009,9,845037,13
+Union Pacific Northwest Line,2009,8,866050,13
+Union Pacific Northwest Line,2009,7,911273,13
+Union Pacific Northwest Line,2009,6,888211,13
+Union Pacific Northwest Line,2009,5,821458,13
+Union Pacific Northwest Line,2009,4,808428,13
+Union Pacific Northwest Line,2009,3,818721,13
+Union Pacific Northwest Line,2009,2,790246,13
+Union Pacific Northwest Line,2009,1,849738,13
+Union Pacific Northwest Line,2010,12,825803,13
+Union Pacific Northwest Line,2010,11,868153,13
+Union Pacific Northwest Line,2010,10,861877,13
+Union Pacific Northwest Line,2010,9,873923,13
+Union Pacific Northwest Line,2010,8,911673,13
+Union Pacific Northwest Line,2010,7,930712,13
+Union Pacific Northwest Line,2010,6,922529,13
+Union Pacific Northwest Line,2010,5,835599,13
+Union Pacific Northwest Line,2010,4,831175,13
+Union Pacific Northwest Line,2010,3,838204,13
+Union Pacific Northwest Line,2010,2,778751,13
+Union Pacific Northwest Line,2010,1,807443,13
+Union Pacific Northwest Line,2011,12,868450,13
+Union Pacific Northwest Line,2011,11,941567,13
+Union Pacific Northwest Line,2011,10,956101,13
+Union Pacific Northwest Line,2011,9,950025,13
+Union Pacific Northwest Line,2011,8,1036127,13
+Union Pacific Northwest Line,2011,7,984734,13
+Union Pacific Northwest Line,2011,6,987179,13
+Union Pacific Northwest Line,2011,5,927237,13
+Union Pacific Northwest Line,2011,4,909766,13
+Union Pacific Northwest Line,2011,3,858234,13
+Union Pacific Northwest Line,2011,2,782330,13
+Union Pacific Northwest Line,2011,1,825834,13
+Union Pacific Northwest Line,2012,12,836457,13
+Union Pacific Northwest Line,2012,11,909092,13
+Union Pacific Northwest Line,2012,10,954981,13
+Union Pacific Northwest Line,2012,9,913093,13
+Union Pacific Northwest Line,2012,8,991029,13
+Union Pacific Northwest Line,2012,7,970671,13
+Union Pacific Northwest Line,2012,6,971329,13
+Union Pacific Northwest Line,2012,5,931177,13
+Union Pacific Northwest Line,2012,4,931177,13
+Union Pacific Northwest Line,2012,3,918606,13
+Union Pacific Northwest Line,2012,2,846339,13
+Union Pacific Northwest Line,2012,1,878996,13
+Union Pacific Northwest Line,2013,12,896246,13
+Union Pacific Northwest Line,2013,11,914286,13
+Union Pacific Northwest Line,2013,10,976658,13
+Union Pacific Northwest Line,2013,9,949591,13
+Union Pacific Northwest Line,2013,8,992106,13
+Union Pacific Northwest Line,2013,7,1005298,13
+Union Pacific Northwest Line,2013,6,973494,13
+Union Pacific Northwest Line,2013,5,945125,13
+Union Pacific Northwest Line,2013,4,911828,13
+Union Pacific Northwest Line,2013,3,905720,13
+Union Pacific Northwest Line,2013,2,844293,13
+Union Pacific Northwest Line,2013,1,865794,13
+Union Pacific Northwest Line,2014,12,961073,13
+Union Pacific Northwest Line,2014,11,934566,13
+Union Pacific Northwest Line,2014,10,996795,13
+Union Pacific Northwest Line,2014,9,995877,13
+Union Pacific Northwest Line,2014,8,1029421,13
+Union Pacific Northwest Line,2014,7,1058107,13
+Union Pacific Northwest Line,2014,6,1034063,13
+Union Pacific Northwest Line,2014,5,970540,13
+Union Pacific Northwest Line,2014,4,947894,13
+Union Pacific Northwest Line,2014,3,936238,13
+Union Pacific Northwest Line,2014,2,873800,13
+Union Pacific Northwest Line,2014,1,870986,13
+Union Pacific Northwest Line,2015,12,899699,13
+Union Pacific Northwest Line,2015,11,906968.5,13
+Union Pacific Northwest Line,2015,10,955189.5,13
+Union Pacific Northwest Line,2015,9,951404.5,13
+Union Pacific Northwest Line,2015,8,1000230.5,13
+Union Pacific Northwest Line,2015,7,1017606,13
+Union Pacific Northwest Line,2015,6,1008933,13
+Union Pacific Northwest Line,2015,5,920709.5,13
+Union Pacific Northwest Line,2015,4,916161,13
+Union Pacific Northwest Line,2015,3,932996.5,13
+Union Pacific Northwest Line,2015,2,862945.5,13
+Union Pacific Northwest Line,2015,1,928911,13
+Union Pacific Northwest Line,2016,12,866035,13
+Union Pacific Northwest Line,2016,11,960614,13
+Union Pacific Northwest Line,2016,10,945863.5,13
+Union Pacific Northwest Line,2016,9,944643,13
+Union Pacific Northwest Line,2016,8,971961,13
+Union Pacific Northwest Line,2016,7,999926,13
+Union Pacific Northwest Line,2016,6,986750,13
+Union Pacific Northwest Line,2016,5,923524.5,13
+Union Pacific Northwest Line,2016,4,888569.5,13
+Union Pacific Northwest Line,2016,3,918882,13
+Union Pacific Northwest Line,2016,2,863496.5,13
+Union Pacific Northwest Line,2016,1,898616,13
+Union Pacific Northwest Line,2017,12,850088,13
+Union Pacific Northwest Line,2017,11,898616,13
+Union Pacific Northwest Line,2017,10,920447,13
+Union Pacific Northwest Line,2017,9,900891,13
+Union Pacific Northwest Line,2017,8,989950.5,13
+Union Pacific Northwest Line,2017,7,951108.5,13
+Union Pacific Northwest Line,2017,6,970515.5,13
+Union Pacific Northwest Line,2017,5,925618,13
+Union Pacific Northwest Line,2017,4,871473.5,13
+Union Pacific Northwest Line,2017,3,892034,13
+Union Pacific Northwest Line,2017,2,814922.5,13
+Union Pacific Northwest Line,2017,1,924193,13
+Union Pacific Northwest Line,2018,12,825010,13
+Union Pacific Northwest Line,2018,11,878634.5,13
+Union Pacific Northwest Line,2018,10,934507.5,13
+Union Pacific Northwest Line,2018,9,877284,13
+Union Pacific Northwest Line,2018,8,950405.5,13
+Union Pacific Northwest Line,2018,7,934104,13
+Union Pacific Northwest Line,2018,6,926203.5,13
+Union Pacific Northwest Line,2018,5,891358,13
+Union Pacific Northwest Line,2018,4,847489.5,13
+Union Pacific Northwest Line,2018,3,846946.5,13
+Union Pacific Northwest Line,2018,2,764234.5,13
+Union Pacific Northwest Line,2018,1,921502.5,13
+Union Pacific Northwest Line,2019,12,828630,13
+Union Pacific Northwest Line,2019,11,841993.5,13
+Union Pacific Northwest Line,2019,10,898226,13
+Union Pacific Northwest Line,2019,9,869216,13
+Union Pacific Northwest Line,2019,8,922875,13
+Union Pacific Northwest Line,2019,7,920812,13
+Union Pacific Northwest Line,2019,6,905674,13
+Union Pacific Northwest Line,2019,5,884847,13
+Union Pacific Northwest Line,2019,4,856116.5,13
+Union Pacific Northwest Line,2019,3,841181,13
+Union Pacific Northwest Line,2019,2,794175,13
+Union Pacific Northwest Line,2019,1,820609.5,13
+Union Pacific Northwest Line,2020,12,75663,13
+Union Pacific Northwest Line,2020,11,75526,13
+Union Pacific Northwest Line,2020,10,99692,13
+Union Pacific Northwest Line,2020,9,92746,13
+Union Pacific Northwest Line,2020,8,87499,13
+Union Pacific Northwest Line,2020,7,87073,13
+Union Pacific Northwest Line,2020,6,57148,13
+Union Pacific Northwest Line,2020,5,28552,13
+Union Pacific Northwest Line,2020,4,21933,13
+Union Pacific Northwest Line,2020,3,339096.8,13
+Union Pacific Northwest Line,2020,2,802709,13
+Union Pacific Northwest Line,2020,1,834765.5,13
+Union Pacific Northwest Line,2021,12,203842.7,13
+Union Pacific Northwest Line,2021,11,221125.4,13
+Union Pacific Northwest Line,2021,10,219473.2,13
+Union Pacific Northwest Line,2021,9,209854.8,13
+Union Pacific Northwest Line,2021,8,214453.4,13
+Union Pacific Northwest Line,2021,7,229883.5,13
+Union Pacific Northwest Line,2021,6,176049,13
+Union Pacific Northwest Line,2021,5,138778,13
+Union Pacific Northwest Line,2021,4,107579,13
+Union Pacific Northwest Line,2021,3,98700,13
+Union Pacific Northwest Line,2021,2,72560.2,13
+Union Pacific Northwest Line,2021,1,69785,13
+Union Pacific Northwest Line,2022,12,277610.5,13
+Union Pacific Northwest Line,2022,11,311390.2,13
+Union Pacific Northwest Line,2022,10,329919.3,13
+Union Pacific Northwest Line,2022,9,324522.2,13
+Union Pacific Northwest Line,2022,8,342993,13
+Union Pacific Northwest Line,2022,7,321195,13
+Union Pacific Northwest Line,2022,6,311926.8,13
+Union Pacific Northwest Line,2022,5,275310.9,13
+Union Pacific Northwest Line,2022,4,246761.4,13
+Union Pacific Northwest Line,2022,3,246969.2,13
+Union Pacific Northwest Line,2022,2,161016.6,13
+Union Pacific Northwest Line,2022,1,131812.3,13
+Union Pacific Northwest Line,2023,12,364717.7,13
+Union Pacific Northwest Line,2023,11,411828.9,13
+Union Pacific Northwest Line,2023,10,444590.3,13
+Union Pacific Northwest Line,2023,9,411750,13
+Union Pacific Northwest Line,2023,8,463980.7,13
+Union Pacific Northwest Line,2023,7,401133.4,13
+Union Pacific Northwest Line,2023,6,427785,13
+Union Pacific Northwest Line,2023,5,402202.2,13
+Union Pacific Northwest Line,2023,4,348749.6,13
+Union Pacific Northwest Line,2023,3,359112.7,13
+Union Pacific Northwest Line,2023,2,277486.8,13
+Union Pacific Northwest Line,2023,1,304761.2,13
+Union Pacific Northwest Line,2024,11,415466.1,13
+Union Pacific Northwest Line,2024,10,497626.9,13
+Union Pacific Northwest Line,2024,9,448602.5,13
+Union Pacific Northwest Line,2024,8,446297.6,13
+Union Pacific Northwest Line,2024,7,489422.4,13
+Union Pacific Northwest Line,2024,6,466773.2,13
+Union Pacific Northwest Line,2024,5,460214,13
+Union Pacific Northwest Line,2024,4,430354.8,13
+Union Pacific Northwest Line,2024,3,396541.9,13
+Union Pacific Northwest Line,2024,2,364135.9,13
+Union Pacific Northwest Line,2024,1,348124.7,13
+Union Pacific West Line,2002,12,519564,11
+Union Pacific West Line,2002,11,547643,11
+Union Pacific West Line,2002,10,572515,11
+Union Pacific West Line,2002,9,524499,11
+Union Pacific West Line,2002,8,534396,11
+Union Pacific West Line,2002,7,563893,11
+Union Pacific West Line,2002,6,533513,11
+Union Pacific West Line,2002,5,593517,11
+Union Pacific West Line,2002,4,552524,11
+Union Pacific West Line,2002,3,547339,11
+Union Pacific West Line,2002,2,533516,11
+Union Pacific West Line,2002,1,585236,11
+Union Pacific West Line,2003,12,560155,11
+Union Pacific West Line,2003,11,538573,11
+Union Pacific West Line,2003,10,579164,11
+Union Pacific West Line,2003,9,566818,11
+Union Pacific West Line,2003,8,577622,11
+Union Pacific West Line,2003,7,611058,11
+Union Pacific West Line,2003,6,580433,11
+Union Pacific West Line,2003,5,542711,11
+Union Pacific West Line,2003,4,553887,11
+Union Pacific West Line,2003,3,550248,11
+Union Pacific West Line,2003,2,528800,11
+Union Pacific West Line,2003,1,538609,11
+Union Pacific West Line,2004,12,546408,11
+Union Pacific West Line,2004,11,575531,11
+Union Pacific West Line,2004,10,580676,11
+Union Pacific West Line,2004,9,582040,11
+Union Pacific West Line,2004,8,589664,11
+Union Pacific West Line,2004,7,595823,11
+Union Pacific West Line,2004,6,593139,11
+Union Pacific West Line,2004,5,544429,11
+Union Pacific West Line,2004,4,558986,11
+Union Pacific West Line,2004,3,561304,11
+Union Pacific West Line,2004,2,515607,11
+Union Pacific West Line,2004,1,546875,11
+Union Pacific West Line,2005,12,581545,11
+Union Pacific West Line,2005,11,592726,11
+Union Pacific West Line,2005,10,604035,11
+Union Pacific West Line,2005,9,616045,11
+Union Pacific West Line,2005,8,620923,11
+Union Pacific West Line,2005,7,627699,11
+Union Pacific West Line,2005,6,630640,11
+Union Pacific West Line,2005,5,581813,11
+Union Pacific West Line,2005,4,578073,11
+Union Pacific West Line,2005,3,566701,11
+Union Pacific West Line,2005,2,540049,11
+Union Pacific West Line,2005,1,568252,11
+Union Pacific West Line,2006,12,585345,11
+Union Pacific West Line,2006,11,636200,11
+Union Pacific West Line,2006,10,648540,11
+Union Pacific West Line,2006,9,624504,11
+Union Pacific West Line,2006,8,680421,11
+Union Pacific West Line,2006,7,675648,11
+Union Pacific West Line,2006,6,656182,11
+Union Pacific West Line,2006,5,622546,11
+Union Pacific West Line,2006,4,595121,11
+Union Pacific West Line,2006,3,599037,11
+Union Pacific West Line,2006,2,536302,11
+Union Pacific West Line,2006,1,609555,11
+Union Pacific West Line,2007,12,626950,11
+Union Pacific West Line,2007,11,669180,11
+Union Pacific West Line,2007,10,701792,11
+Union Pacific West Line,2007,9,662046,11
+Union Pacific West Line,2007,8,692969,11
+Union Pacific West Line,2007,7,729566,11
+Union Pacific West Line,2007,6,693131,11
+Union Pacific West Line,2007,5,669800,11
+Union Pacific West Line,2007,4,631947,11
+Union Pacific West Line,2007,3,634168,11
+Union Pacific West Line,2007,2,593817,11
+Union Pacific West Line,2007,1,622456,11
+Union Pacific West Line,2008,12,609352,11
+Union Pacific West Line,2008,11,632229,11
+Union Pacific West Line,2008,10,707613,11
+Union Pacific West Line,2008,9,694357,11
+Union Pacific West Line,2008,8,715829,11
+Union Pacific West Line,2008,7,764023,11
+Union Pacific West Line,2008,6,714574,11
+Union Pacific West Line,2008,5,684018,11
+Union Pacific West Line,2008,4,660078,11
+Union Pacific West Line,2008,3,629339,11
+Union Pacific West Line,2008,2,593432,11
+Union Pacific West Line,2008,1,765526,11
+Union Pacific West Line,2009,12,592004,11
+Union Pacific West Line,2009,11,622428,11
+Union Pacific West Line,2009,10,634155,11
+Union Pacific West Line,2009,9,639721,11
+Union Pacific West Line,2009,8,648378,11
+Union Pacific West Line,2009,7,712266,11
+Union Pacific West Line,2009,6,660634,11
+Union Pacific West Line,2009,5,619905,11
+Union Pacific West Line,2009,4,615046,11
+Union Pacific West Line,2009,3,606843,11
+Union Pacific West Line,2009,2,582680,11
+Union Pacific West Line,2009,1,626966,11
+Union Pacific West Line,2010,12,621036,11
+Union Pacific West Line,2010,11,645172,11
+Union Pacific West Line,2010,10,658716,11
+Union Pacific West Line,2010,9,659214,11
+Union Pacific West Line,2010,8,697249,11
+Union Pacific West Line,2010,7,700928,11
+Union Pacific West Line,2010,6,717567,11
+Union Pacific West Line,2010,5,648571,11
+Union Pacific West Line,2010,4,643904,11
+Union Pacific West Line,2010,3,607141,11
+Union Pacific West Line,2010,2,581457,11
+Union Pacific West Line,2010,1,596387,11
+Union Pacific West Line,2011,12,635020,11
+Union Pacific West Line,2011,11,675321,11
+Union Pacific West Line,2011,10,694496,11
+Union Pacific West Line,2011,9,685711,11
+Union Pacific West Line,2011,8,728685,11
+Union Pacific West Line,2011,7,692199,11
+Union Pacific West Line,2011,6,712906,11
+Union Pacific West Line,2011,5,657452,11
+Union Pacific West Line,2011,4,646581,11
+Union Pacific West Line,2011,3,635679,11
+Union Pacific West Line,2011,2,567724,11
+Union Pacific West Line,2011,1,617032,11
+Union Pacific West Line,2012,12,621210,11
+Union Pacific West Line,2012,11,674054,11
+Union Pacific West Line,2012,10,701575,11
+Union Pacific West Line,2012,9,662414,11
+Union Pacific West Line,2012,8,708807,11
+Union Pacific West Line,2012,7,691425,11
+Union Pacific West Line,2012,6,693567,11
+Union Pacific West Line,2012,5,657153,11
+Union Pacific West Line,2012,4,657153,11
+Union Pacific West Line,2012,3,673846,11
+Union Pacific West Line,2012,2,624130,11
+Union Pacific West Line,2012,1,644707,11
+Union Pacific West Line,2013,12,670368,11
+Union Pacific West Line,2013,11,675220,11
+Union Pacific West Line,2013,10,716744,11
+Union Pacific West Line,2013,9,700297,11
+Union Pacific West Line,2013,8,725009,11
+Union Pacific West Line,2013,7,743872,11
+Union Pacific West Line,2013,6,715238,11
+Union Pacific West Line,2013,5,694118,11
+Union Pacific West Line,2013,4,676134,11
+Union Pacific West Line,2013,3,671016,11
+Union Pacific West Line,2013,2,629682,11
+Union Pacific West Line,2013,1,633891,11
+Union Pacific West Line,2014,12,690901,11
+Union Pacific West Line,2014,11,677565,11
+Union Pacific West Line,2014,10,735684,11
+Union Pacific West Line,2014,9,726666,11
+Union Pacific West Line,2014,8,728270,11
+Union Pacific West Line,2014,7,756282,11
+Union Pacific West Line,2014,6,746033,11
+Union Pacific West Line,2014,5,702043,11
+Union Pacific West Line,2014,4,694359,11
+Union Pacific West Line,2014,3,682409,11
+Union Pacific West Line,2014,2,641483,11
+Union Pacific West Line,2014,1,641495,11
+Union Pacific West Line,2015,12,668646.5,11
+Union Pacific West Line,2015,11,674983.5,11
+Union Pacific West Line,2015,10,706169,11
+Union Pacific West Line,2015,9,707366,11
+Union Pacific West Line,2015,8,739489,11
+Union Pacific West Line,2015,7,749632,11
+Union Pacific West Line,2015,6,752246.5,11
+Union Pacific West Line,2015,5,676114,11
+Union Pacific West Line,2015,4,680886,11
+Union Pacific West Line,2015,3,694381,11
+Union Pacific West Line,2015,2,635970.5,11
+Union Pacific West Line,2015,1,681379.5,11
+Union Pacific West Line,2016,12,657341.5,11
+Union Pacific West Line,2016,11,727405.5,11
+Union Pacific West Line,2016,10,714181,11
+Union Pacific West Line,2016,9,704809,11
+Union Pacific West Line,2016,8,715741,11
+Union Pacific West Line,2016,7,750252,11
+Union Pacific West Line,2016,6,740734.5,11
+Union Pacific West Line,2016,5,693475,11
+Union Pacific West Line,2016,4,669426,11
+Union Pacific West Line,2016,3,688956,11
+Union Pacific West Line,2016,2,642473,11
+Union Pacific West Line,2016,1,668286,11
+Union Pacific West Line,2017,12,643934,11
+Union Pacific West Line,2017,11,685068.5,11
+Union Pacific West Line,2017,10,711365.5,11
+Union Pacific West Line,2017,9,693709,11
+Union Pacific West Line,2017,8,762151.5,11
+Union Pacific West Line,2017,7,718506.5,11
+Union Pacific West Line,2017,6,741676,11
+Union Pacific West Line,2017,5,700125,11
+Union Pacific West Line,2017,4,665226.5,11
+Union Pacific West Line,2017,3,677892,11
+Union Pacific West Line,2017,2,621311,11
+Union Pacific West Line,2017,1,712188.5,11
+Union Pacific West Line,2018,12,620322.5,11
+Union Pacific West Line,2018,11,668461,11
+Union Pacific West Line,2018,10,717857.5,11
+Union Pacific West Line,2018,9,679060.5,11
+Union Pacific West Line,2018,8,734992.5,11
+Union Pacific West Line,2018,7,716169.5,11
+Union Pacific West Line,2018,6,712427.5,11
+Union Pacific West Line,2018,5,685577.5,11
+Union Pacific West Line,2018,4,651897,11
+Union Pacific West Line,2018,3,654083,11
+Union Pacific West Line,2018,2,594482.5,11
+Union Pacific West Line,2018,1,704012.5,11
+Union Pacific West Line,2019,12,624759.5,11
+Union Pacific West Line,2019,11,639559.5,11
+Union Pacific West Line,2019,10,681560,11
+Union Pacific West Line,2019,9,659495.5,11
+Union Pacific West Line,2019,8,694367.5,11
+Union Pacific West Line,2019,7,702109,11
+Union Pacific West Line,2019,6,683635,11
+Union Pacific West Line,2019,5,669453,11
+Union Pacific West Line,2019,4,664417,11
+Union Pacific West Line,2019,3,637900.5,11
+Union Pacific West Line,2019,2,605481,11
+Union Pacific West Line,2019,1,620447,11
+Union Pacific West Line,2020,12,53173,11
+Union Pacific West Line,2020,11,53014,11
+Union Pacific West Line,2020,10,70407,11
+Union Pacific West Line,2020,9,68552,11
+Union Pacific West Line,2020,8,65129,11
+Union Pacific West Line,2020,7,59975,11
+Union Pacific West Line,2020,6,39015,11
+Union Pacific West Line,2020,5,22065,11
+Union Pacific West Line,2020,4,17273,11
+Union Pacific West Line,2020,3,256878.3,11
+Union Pacific West Line,2020,2,608137,11
+Union Pacific West Line,2020,1,632268,11
+Union Pacific West Line,2021,12,148485.4,11
+Union Pacific West Line,2021,11,172350.9,11
+Union Pacific West Line,2021,10,170889.2,11
+Union Pacific West Line,2021,9,162482.1,11
+Union Pacific West Line,2021,8,166356.3,11
+Union Pacific West Line,2021,7,175415.7,11
+Union Pacific West Line,2021,6,134923.2,11
+Union Pacific West Line,2021,5,101399,11
+Union Pacific West Line,2021,4,77132,11
+Union Pacific West Line,2021,3,74642,11
+Union Pacific West Line,2021,2,50951,11
+Union Pacific West Line,2021,1,51509,11
+Union Pacific West Line,2022,12,196031.5,11
+Union Pacific West Line,2022,11,227925.5,11
+Union Pacific West Line,2022,10,234016.1,11
+Union Pacific West Line,2022,9,235402.6,11
+Union Pacific West Line,2022,8,243621,11
+Union Pacific West Line,2022,7,230822.3,11
+Union Pacific West Line,2022,6,230642.2,11
+Union Pacific West Line,2022,5,198437.8,11
+Union Pacific West Line,2022,4,192113.5,11
+Union Pacific West Line,2022,3,189298.7,11
+Union Pacific West Line,2022,2,129071.9,11
+Union Pacific West Line,2022,1,101043.3,11
+Union Pacific West Line,2023,12,252032.7,11
+Union Pacific West Line,2023,11,288181.5,11
+Union Pacific West Line,2023,10,314276.7,11
+Union Pacific West Line,2023,9,292563.1,11
+Union Pacific West Line,2023,8,327192.3,11
+Union Pacific West Line,2023,7,283108.1,11
+Union Pacific West Line,2023,6,299700,11
+Union Pacific West Line,2023,5,285822.4,11
+Union Pacific West Line,2023,4,245640.2,11
+Union Pacific West Line,2023,3,260025.6,11
+Union Pacific West Line,2023,2,208243.1,11
+Union Pacific West Line,2023,1,228219.6,11
+Union Pacific West Line,2024,11,295141.7,11
+Union Pacific West Line,2024,10,354179.5,11
+Union Pacific West Line,2024,9,324540.3,11
+Union Pacific West Line,2024,8,316570.9,11
+Union Pacific West Line,2024,7,340276.2,11
+Union Pacific West Line,2024,6,320720.2,11
+Union Pacific West Line,2024,5,327224.9,11
+Union Pacific West Line,2024,4,308983.1,11
+Union Pacific West Line,2024,3,286178.5,11
+Union Pacific West Line,2024,2,268732.9,11
+Union Pacific West Line,2024,1,265659.9,11
