@@ -8,7 +8,7 @@ library(extrafont)
 ctatrainrides <- read.csv("https://data.cityofchicago.org/resource/t2rn-p8d7.csv?$limit=45000")
 
 #CTA Station info from my KEY file. This provides station details, ridership allocations for multi-line stations, line colors, etc.
-ctastopkeymixed <- read.csv("C:/Users/arcannon/OneDrive - Burns & McDonnell/FE PE School/Rstudio2022/ILVIS/ctadata//sources/ctastopkeymixed.csv")
+ctastopkeymixed <- read.csv("ctastopkeymixed.csv")
 
 #Creating this variable so I don't keep pulling from the API.
 ctastationrides <- ctatrainrides
@@ -114,7 +114,7 @@ ctabranchlineridesmixed <- ggplot(ctabranchridesmixed %>% group_by(weight_Branch
 
 ctabranchlineridesmixed
 
-ggsave(plot=ctabranchlineridesmixed, "C:/Users/arcannon/OneDrive - Burns & McDonnell/FE PE School/Rstudio2022/ILVIS/ctadata/plots/ctabranchlineridesmixed.png",height=8,width=8)
+ggsave(plot=ctabranchlineridesmixed, "ctabranchlineridesmixed.png",height=8,width=8)
 
 ####
 
@@ -153,7 +153,7 @@ ctabranchlinerecoverymixed <- ggplot(ctabranchridesmixed)+
 
 ctabranchlinerecoverymixed
 
-ggsave(plot=ctabranchlinerecoverymixed, "C:/Users/arcannon/OneDrive - Burns & McDonnell/FE PE School/Rstudio2022/ILVIS/ctadata/plots/ctabranchlinerecoverymixed.png",height=8,width=8)
+ggsave(plot=ctabranchlinerecoverymixed, "ctabranchlinerecoverymixed.png",height=8,width=8)
 
 ###########################
 #Bar Graph
@@ -181,7 +181,7 @@ branchrecoverycolmix <- ggplot(ctabranchridesmixed %>% group_by(weight_Branch) %
 
 branchrecoverycolmix 
 
-ggsave(plot=branchrecoverycolmix, "C:/Users/arcannon/OneDrive - Burns & McDonnell/FE PE School/Rstudio2022/ILVIS/ctadata/plots/branchrecoverycolmix.png",height=6,width=8)
+ggsave(plot=branchrecoverycolmix, "branchrecoverycolmix.png",height=6,width=8)
 
 
 
