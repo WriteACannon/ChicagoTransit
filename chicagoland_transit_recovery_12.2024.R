@@ -33,7 +33,7 @@ ctarides$year <- format(as.Date(ctarides$date, format="%Y-%m-%d"),"%Y")
 #Bringing in Metra Data. Latest available here:
 #https://rtams.org/media/resources/metra-monthly-ridership-line 
 
-metrarides <- read.csv("C:/Users/arcannon/OneDrive - Burns & McDonnell/FE PE School/Rstudio2022/ILVIS/ctadata/sources/Metra_Monthly_Ridership_by_Line_2002_2024.csv")
+metrarides <- read.csv("Metra_Monthly_Ridership_by_Line_2002_2024.csv")
 metrarides$date <- paste(metrarides$YEAR,"-",metrarides$MONTH,"-","01",sep="")
 metrarides$date <-  as.Date(metrarides$date, format="%Y-%m-%d")
 metrarides <- metrarides %>% group_by(date, MONTH, YEAR) %>% summarise(rides=sum(RIDES))
@@ -123,7 +123,7 @@ allrecover<- ggplot(transitrides)+
 
 allrecover
 
-ggsave(plot=allrecover, "C:/Users/arcannon/OneDrive - Burns & McDonnell/FE PE School/Rstudio2022/ILVIS/ctadata/plots/allrecover.png",height=6,width=8)
+ggsave(plot=allrecover, "allrecover.png",height=6,width=8)
 
 
 
@@ -157,7 +157,7 @@ allrecoverpercent <- ggplot(transitavg)+
 
 allrecoverpercent
 
-ggsave(plot=allrecoverpercent, "C:/Users/arcannon/OneDrive - Burns & McDonnell/FE PE School/Rstudio2022/ILVIS/ctadata/plots/allrecoverpercent.png",height=6,width=8)
+ggsave(plot=allrecoverpercent, "allrecoverpercent.png",height=6,width=8)
 
 
 
