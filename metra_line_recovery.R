@@ -5,10 +5,10 @@ library(extrafont)
 
 #Bringing in Metra Data. Latest available here:
 #https://rtams.org/media/resources/metra-monthly-ridership-line 
-metrarides <- read.csv("C:/Users/arcannon/OneDrive - Burns & McDonnell/FE PE School/Rstudio2022/ILVIS/ctadata/sources/Metra_Monthly_Ridership_by_Line_2002_2024.csv")
+metrarides <- read.csv("Metra_Monthly_Ridership_by_Line_2002_2024.csv")
 
 #bringing in color data
-metracolors <- read.csv("C:/Users/arcannon/OneDrive - Burns & McDonnell/FE PE School/Rstudio2022/ILVIS/ctadata/sources/metracolors.csv")
+metracolors <- read.csv("metracolors.csv")
 
 #dates
 metrarides$date <- paste(metrarides$YEAR,"-",metrarides$MONTH,"-","01",sep="")
@@ -81,7 +81,7 @@ metracols <- ggplot(metrarides %>% group_by(shortname) %>% filter(date == thisda
 
 metracols
 
-ggsave(plot=metracols, "C:/Users/arcannon/OneDrive - Burns & McDonnell/FE PE School/Rstudio2022/ILVIS/ctadata/plots/metracols.png",height=6,width=8)
+ggsave(plot=metracols, "metracols.png",height=6,width=8)
 
 
 
@@ -121,7 +121,7 @@ metralines <- ggplot(metrarides %>% group_by(shortname))+
 
 metralines
 
-ggsave(plot=metralines, "C:/Users/arcannon/OneDrive - Burns & McDonnell/FE PE School/Rstudio2022/ILVIS/ctadata/plots/metralines.png",height=6,width=8)
+ggsave(plot=metralines, "metralines.png",height=6,width=8)
 
 
 
@@ -158,7 +158,6 @@ metralinesrecovery <- ggplot(metrarides %>% group_by(shortname))+
         panel.grid.major.x = element_line(color="#f0f0f0"),panel.grid.major.y = element_line(color="#f0f0f0"))+
   theme(text=element_text(family="Arial"))
 
-
 metralinesrecovery
 
-ggsave(plot=metralinesrecovery, "C:/Users/arcannon/OneDrive - Burns & McDonnell/FE PE School/Rstudio2022/ILVIS/ctadata/plots/metralinesrecovery.png",height=8,width=8)
+ggsave(plot=metralinesrecovery, "metralinesrecovery.png",height=8,width=8)
